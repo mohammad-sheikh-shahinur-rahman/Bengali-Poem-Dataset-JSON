@@ -1,30 +1,23 @@
-# Bengali Poem Dataset — JSON
+# Bengali Poetry Datasets — JSON
 
-বাংলা কবিতার ডেটাসেটটি UTF-8 JSON ফরম্যাটে সংরক্ষিত। এতে ৬,০৭০টি কবিতা, ১৩৭ জন কবি এবং ২১টি শ্রেণি রয়েছে।
+দুটি বাংলা কবিতার ডেটাসেট একত্র করে UTF-8 JSON ফরম্যাটে রাখা হয়েছে। এতে মোট **১০,৯৩৮টি রেকর্ড** আছে: প্রথম উৎস থেকে ৬,০৭০টি এবং দ্বিতীয় উৎস থেকে ৪,৮৬৮টি। কবির নাম মিলিয়ে স্বতন্ত্র কবি ১৩৭ জন। শ্রেণিবিভাগের তথ্য প্রথম উৎসের রেকর্ডে আছে; দ্বিতীয় উৎসের কবিতাগুলোর জন্য শ্রেণি দেওয়া হয়নি।
 
 ## ফাইল
 
-- `Bengali-Poem-Dataset.json` — সম্পূর্ণ JSON ডেটাসেট
-- `LICENSE` — উৎস রিপোজিটরির সঙ্গে দেওয়া GPL-3.0 লাইসেন্স টেক্সট
+- `Bengali-Poem-Dataset.json` — দুই উৎসের সম্পূর্ণ রেকর্ড ও metadata
+- `LICENSE-UPSTREAM-GPL-3.0.txt` — প্রথম উৎস রিপোজিটরির GPL-3.0 লাইসেন্স ফাইলের অপরিবর্তিত কপি; এটি পুরো combined dataset বা দ্বিতীয় উৎসের কবিতার জন্য blanket license নয়
 
-## JSON গঠন
+## উৎস
 
-ফাইলের মূল অবজেক্টে `metadata` এবং `records` রয়েছে। প্রতিটি record-এ সাধারণত এই ক্ষেত্রগুলো আছে:
+1. [Bengali-Poem-Dataset](https://github.com/mohammad-sheikh-shahinur-rahman/Bengali-Poem-Dataset): ৬,০৭০টি কবিতা, ১৩৭ জন কবি, ২১টি শ্রেণি। উৎস রিপোজিটরিতে GPL-3.0 লাইসেন্স ফাইল রয়েছে, তবে তা অন্তর্ভুক্ত প্রতিটি কবিতার স্বতন্ত্র অধিকার নিশ্চিত করে না।
+2. [BanglaPoetryData](https://github.com/mohammad-sheikh-shahinur-rahman/BanglaPoetryData): ৪,৮৬৮টি UTF-8 কবিতার ফাইল। উৎস README-তে রবীন্দ্রনাথ ঠাকুর, কাজী নজরুল ইসলাম, জীবনানন্দ দাশ ও সুকুমার রায়ের সংকলনের কথা বলা হয়েছে। উৎস রিপোজিটরিতে কোনো স্পষ্ট লাইসেন্স ফাইল নেই।
 
-- `poet` — কবির নাম
-- `title` — কবিতার শিরোনাম
-- `text` — কবিতার মূল লেখা
-- `classification` — কবিতার শ্রেণি
-- `source_url` — উৎসের URL
-- `collected_at` — উৎসে দেওয়া সংগ্রহের সময়
-- `source_files` — উৎস রিপোজিটরির মূল ফাইলের নাম
+JSON-এর `metadata.source_datasets` অংশে উৎসগুলোর commit, রেকর্ডসংখ্যা ও লাইসেন্স-নোট রাখা হয়েছে। প্রতিটি record-এ `source_dataset_id` দিয়ে উৎস বোঝা যায়। দ্বিতীয় উৎসের রেকর্ডে `source_collection`, `source_path`, `source_repository` এবং নির্দিষ্ট ফাইলের `source_url` রয়েছে।
 
-JSONটি UTF-8-এ লেখা এবং `ensure_ascii=false`-সামঞ্জস্যপূর্ণ Bengali text সরাসরি পড়া যায়।
+## রেকর্ডের ক্ষেত্র
 
-## উৎস ও অধিকার
+প্রতিটি কবিতার রেকর্ডে সাধারণত `poet`, `title`, `text`, `classification`, `source_url`, `collected_at`, `source_files` এবং `source_dataset_id` রয়েছে। নতুন উৎস থেকে আসা রেকর্ডে সংকলন ও ফাইল-পথও সংরক্ষিত। যেসব তথ্য উৎসে ছিল না, সেগুলো `null` রাখা হয়েছে।
 
-ডেটাসেটটি [Bengali-Poem-Dataset](https://github.com/mohammad-sheikh-shahinur-rahman/Bengali-Poem-Dataset) থেকে JSON-এ রূপান্তর করা হয়েছে। উৎস রিপোজিটরিটি ৬,০৭০টি কবিতা ও ১৩৭ জন কবির কথা জানায়।
+## অধিকার ও পুনর্ব্যবহার
 
-এই রিপোজিটরির আপলোডার সম্পূর্ণ কবিতাগুলো public করার অনুমতি নিশ্চিত করেছেন। কবিতাগুলোর উৎস URL JSON-এ রাখা হয়েছে। `LICENSE` ফাইলটি upstream repository থেকে অপরিবর্তিতভাবে অন্তর্ভুক্ত করা হয়েছে; এটি আলাদা কবিতা বা তৃতীয়-পক্ষের উপকরণের অধিকার সম্পর্কে অতিরিক্ত দাবি করে না।
-
-গবেষণাপত্র: [A Stylometric Dataset for Bengali Poems, NLPIR 2022](https://shuhanmirza.com/assets/files/papers/nlpir22.pdf)
+এই combined ফাইলে দুই উৎসের পূর্ণ কবিতার লেখা অন্তর্ভুক্ত করার অনুমতি আপলোডার নিশ্চিত করেছেন। এটি কোনো নতুন বা একক blanket license নয়। বিশেষ করে দ্বিতীয় উৎসে স্পষ্ট লাইসেন্স নেই, আর `LICENSE-UPSTREAM-GPL-3.0.txt` কেবল প্রথম উৎসের সঙ্গে থাকা লাইসেন্স-নোট। পুনঃবিতরণ বা বাণিজ্যিক ব্যবহারের আগে সংশ্লিষ্ট কবিতা ও অধিকারধারীদের শর্ত যাচাই করুন।
