@@ -4,7 +4,7 @@
 
 ## ফাইল
 
-- `Bengali-Poem-Dataset.json` — দুই উৎসের সম্পূর্ণ রেকর্ড ও metadata
+- `Bengali-Poem-Dataset.json` — দুই উৎসের সম্পূর্ণ রেকর্ড, metadata এবং কবি-প্রোফাইল
 - `LICENSE-UPSTREAM-GPL-3.0.txt` — প্রথম উৎস রিপোজিটরির GPL-3.0 লাইসেন্স ফাইলের অপরিবর্তিত কপি; এটি পুরো combined dataset বা দ্বিতীয় উৎসের কবিতার জন্য blanket license নয়
 
 ## উৎস
@@ -12,7 +12,13 @@
 1. [Bengali-Poem-Dataset](https://github.com/mohammad-sheikh-shahinur-rahman/Bengali-Poem-Dataset): ৬,০৭০টি কবিতা, ১৩৭ জন কবি, ২১টি শ্রেণি। উৎস রিপোজিটরিতে GPL-3.0 লাইসেন্স ফাইল রয়েছে, তবে তা অন্তর্ভুক্ত প্রতিটি কবিতার স্বতন্ত্র অধিকার নিশ্চিত করে না।
 2. [BanglaPoetryData](https://github.com/mohammad-sheikh-shahinur-rahman/BanglaPoetryData): ৪,৮৬৮টি UTF-8 কবিতার ফাইল। উৎস README-তে রবীন্দ্রনাথ ঠাকুর, কাজী নজরুল ইসলাম, জীবনানন্দ দাশ ও সুকুমার রায়ের সংকলনের কথা বলা হয়েছে। উৎস রিপোজিটরিতে কোনো স্পষ্ট লাইসেন্স ফাইল নেই।
 
-JSON-এর `metadata.source_datasets` অংশে উৎসগুলোর commit, রেকর্ডসংখ্যা ও লাইসেন্স-নোট রাখা হয়েছে। প্রতিটি record-এ `source_dataset_id` দিয়ে উৎস বোঝা যায়। দ্বিতীয় উৎসের রেকর্ডে `source_collection`, `source_path`, `source_repository` এবং নির্দিষ্ট ফাইলের `source_url` রয়েছে।
+JSON-এর `metadata.source_datasets` অংশে উৎসগুলোর commit, রেকর্ডসংখ্যা ও লাইসেন্স-নোট রাখা হয়েছে। প্রতিটি poem record-এ `source_dataset_id` দিয়ে উৎস বোঝা যায়। দ্বিতীয় উৎসের রেকর্ডে `source_collection`, `source_path`, `source_repository` এবং নির্দিষ্ট ফাইলের `source_url` রয়েছে।
+
+## কবি-প্রোফাইল
+
+শীর্ষস্তরের `poets` অ্যারেতে ১৩৭ জন কবির জন্য পৃথক profile entry আছে। `poets[].name`-এর সঙ্গে `records[].poet` মিলিয়ে কবির কবিতা ও পরিচিতি যুক্ত করা যায়। একটি profile-এ `biography_bn`, `bio_source_urls`, `photo_url`, `photo_source_url`, `photo_license`, `photo_attribution`, `notes_bn` এবং `research_status` ক্ষেত্র রয়েছে।
+
+**প্রোফাইলের গবেষণা এখনো আংশিক:** ৬৩ জনের সংক্ষিপ্ত জীবনী ও উৎস যুক্ত হয়েছে; তাদের মধ্যে ২৯ জনের জন্য উৎস ও লাইসেন্স-তথ্যসহ ছবির URL রয়েছে। বাকি ৭৪ জনের জীবনী/ছবির গবেষণা ক্রেডিট সীমায় থেমে যাওয়ায় অসম্পূর্ণ; তাদের `research_status` হলো `pending`, এবং অযাচাইকৃত তথ্য `null` রাখা হয়েছে। `metadata.poet_profiles_status`-এ এই সীমাবদ্ধতা নথিভুক্ত। ছবির URL পুনঃব্যবহারের আগে সংশ্লিষ্ট উৎস-পৃষ্ঠা ও লাইসেন্সের শর্ত যাচাই করুন।
 
 ## রেকর্ডের ক্ষেত্র
 

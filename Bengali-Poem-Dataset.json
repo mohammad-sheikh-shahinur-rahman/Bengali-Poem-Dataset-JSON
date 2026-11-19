@@ -14,7 +14,7 @@
     "collected_from_source_missing": 0,
     "classification_missing": 0,
     "poem_text_versions_differing_within_folder": 0,
-    "generated_at_utc": "2026-11-18T03:37:49+00:00",
+    "generated_at_utc": "2026-11-19T04:14:02+00:00",
     "license_text": "                    GNU GENERAL PUBLIC LICENSE\n                       Version 3, 29 June 2007\n\n Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>\n Everyone is permitted to copy and distribute verbatim copies\n of this license document, but changing it is not allowed.\n\n                            Preamble\n\n  The GNU General Public License is a free, copyleft license for\nsoftware and other kinds of works.\n\n  The licenses for most software and other practical works are designed\nto take away your freedom to share and change the works.  By contrast,\nthe GNU General Public License is intended to guarantee your freedom to\nshare and change all versions of a program--to make sure it remains free\nsoftware for all its users.  We, the Free Software Foundation, use the\nGNU General Public License for most of our software; it applies also to\nany other work released this way by its authors.  You can apply it to\nyour programs, too.\n\n  When we speak of free software, we are referring to freedom, not\nprice.  Our General Public Licenses are designed to make sure that you\nhave the freedom to distribute copies of free software (and charge for\nthem if you wish), that you receive source code or can get it if you\nwant it, that you can change the software or use pieces of it in new\nfree programs, and that you know you can do these things.\n\n  To protect your rights, we need to prevent others from denying you\nthese rights or asking you to surrender the rights.  Therefore, you have\ncertain responsibilities if you distribute copies of the software, or if\nyou modify it: responsibilities to respect the freedom of others.\n\n  For example, if you distribute copies of such a program, whether\ngratis or for a fee, you must pass on to the recipients the same\nfreedoms that you received.  You must make sure that they, too, receive\nor can get the source code.  And you must show them these terms so they\nknow their rights.\n\n  Developers that use the GNU GPL protect your rights with two steps:\n(1) assert copyright on the software, and (2) offer you this License\ngiving you legal permission to copy, distribute and/or modify it.\n\n  For the developers' and authors' protection, the GPL clearly explains\nthat there is no warranty for this free software.  For both users' and\nauthors' sake, the GPL requires that modified versions be marked as\nchanged, so that their problems will not be attributed erroneously to\nauthors of previous versions.\n\n  Some devices are designed to deny users access to install or run\nmodified versions of the software inside them, although the manufacturer\ncan do so.  This is fundamentally incompatible with the aim of\nprotecting users' freedom to change the software.  The systematic\npattern of such abuse occurs in the area of products for individuals to\nuse, which is precisely where it is most unacceptable.  Therefore, we\nhave designed this version of the GPL to prohibit the practice for those\nproducts.  If such problems arise substantially in other domains, we\nstand ready to extend this provision to those domains in future versions\nof the GPL, as needed to protect the freedom of users.\n\n  Finally, every program is threatened constantly by software patents.\nStates should not allow patents to restrict development and use of\nsoftware on general-purpose computers, but in those that do, we wish to\navoid the special danger that patents applied to a free program could\nmake it effectively proprietary.  To prevent this, the GPL assures that\npatents cannot be used to render the program non-free.\n\n  The precise terms and conditions for copying, distribution and\nmodification follow.\n\n                       TERMS AND CONDITIONS\n\n  0. Definitions.\n\n  \"This License\" refers to version 3 of the GNU General Public License.\n\n  \"Copyright\" also means copyright-like laws that apply to other kinds of\nworks, such as semiconductor masks.\n\n  \"The Program\" refers to any copyrightable work licensed under this\nLicense.  Each licensee is addressed as \"you\".  \"Licensees\" and\n\"recipients\" may be individuals or organizations.\n\n  To \"modify\" a work means to copy from or adapt all or part of the work\nin a fashion requiring copyright permission, other than the making of an\nexact copy.  The resulting work is called a \"modified version\" of the\nearlier work or a work \"based on\" the earlier work.\n\n  A \"covered work\" means either the unmodified Program or a work based\non the Program.\n\n  To \"propagate\" a work means to do anything with it that, without\npermission, would make you directly or secondarily liable for\ninfringement under applicable copyright law, except executing it on a\ncomputer or modifying a private copy.  Propagation includes copying,\ndistribution (with or without modification), making available to the\npublic, and in some countries other activities as well.\n\n  To \"convey\" a work means any kind of propagation that enables other\nparties to make or receive copies.  Mere interaction with a user through\na computer network, with no transfer of a copy, is not conveying.\n\n  An interactive user interface displays \"Appropriate Legal Notices\"\nto the extent that it includes a convenient and prominently visible\nfeature that (1) displays an appropriate copyright notice, and (2)\ntells the user that there is no warranty for the work (except to the\nextent that warranties are provided), that licensees may convey the\nwork under this License, and how to view a copy of this License.  If\nthe interface presents a list of user commands or options, such as a\nmenu, a prominent item in the list meets this criterion.\n\n  1. Source Code.\n\n  The \"source code\" for a work means the preferred form of the work\nfor making modifications to it.  \"Object code\" means any non-source\nform of a work.\n\n  A \"Standard Interface\" means an interface that either is an official\nstandard defined by a recognized standards body, or, in the case of\ninterfaces specified for a particular programming language, one that\nis widely used among developers working in that language.\n\n  The \"System Libraries\" of an executable work include anything, other\nthan the work as a whole, that (a) is included in the normal form of\npackaging a Major Component, but which is not part of that Major\nComponent, and (b) serves only to enable use of the work with that\nMajor Component, or to implement a Standard Interface for which an\nimplementation is available to the public in source code form.  A\n\"Major Component\", in this context, means a major essential component\n(kernel, window system, and so on) of the specific operating system\n(if any) on which the executable work runs, or a compiler used to\nproduce the work, or an object code interpreter used to run it.\n\n  The \"Corresponding Source\" for a work in object code form means all\nthe source code needed to generate, install, and (for an executable\nwork) run the object code and to modify the work, including scripts to\ncontrol those activities.  However, it does not include the work's\nSystem Libraries, or general-purpose tools or generally available free\nprograms which are used unmodified in performing those activities but\nwhich are not part of the work.  For example, Corresponding Source\nincludes interface definition files associated with source files for\nthe work, and the source code for shared libraries and dynamically\nlinked subprograms that the work is specifically designed to require,\nsuch as by intimate data communication or control flow between those\nsubprograms and other parts of the work.\n\n  The Corresponding Source need not include anything that users\ncan regenerate automatically from other parts of the Corresponding\nSource.\n\n  The Corresponding Source for a work in source code form is that\nsame work.\n\n  2. Basic Permissions.\n\n  All rights granted under this License are granted for the term of\ncopyright on the Program, and are irrevocable provided the stated\nconditions are met.  This License explicitly affirms your unlimited\npermission to run the unmodified Program.  The output from running a\ncovered work is covered by this License only if the output, given its\ncontent, constitutes a covered work.  This License acknowledges your\nrights of fair use or other equivalent, as provided by copyright law.\n\n  You may make, run and propagate covered works that you do not\nconvey, without conditions so long as your license otherwise remains\nin force.  You may convey covered works to others for the sole purpose\nof having them make modifications exclusively for you, or provide you\nwith facilities for running those works, provided that you comply with\nthe terms of this License in conveying all material for which you do\nnot control copyright.  Those thus making or running the covered works\nfor you must do so exclusively on your behalf, under your direction\nand control, on terms that prohibit them from making any copies of\nyour copyrighted material outside their relationship with you.\n\n  Conveying under any other circumstances is permitted solely under\nthe conditions stated below.  Sublicensing is not allowed; section 10\nmakes it unnecessary.\n\n  3. Protecting Users' Legal Rights From Anti-Circumvention Law.\n\n  No covered work shall be deemed part of an effective technological\nmeasure under any applicable law fulfilling obligations under article\n11 of the WIPO copyright treaty adopted on 20 December 1996, or\nsimilar laws prohibiting or restricting circumvention of such\nmeasures.\n\n  When you convey a covered work, you waive any legal power to forbid\ncircumvention of technological measures to the extent such circumvention\nis effected by exercising rights under this License with respect to\nthe covered work, and you disclaim any intention to limit operation or\nmodification of the work as a means of enforcing, against the work's\nusers, your or third parties' legal rights to forbid circumvention of\ntechnological measures.\n\n  4. Conveying Verbatim Copies.\n\n  You may convey verbatim copies of the Program's source code as you\nreceive it, in any medium, provided that you conspicuously and\nappropriately publish on each copy an appropriate copyright notice;\nkeep intact all notices stating that this License and any\nnon-permissive terms added in accord with section 7 apply to the code;\nkeep intact all notices of the absence of any warranty; and give all\nrecipients a copy of this License along with the Program.\n\n  You may charge any price or no price for each copy that you convey,\nand you may offer support or warranty protection for a fee.\n\n  5. Conveying Modified Source Versions.\n\n  You may convey a work based on the Program, or the modifications to\nproduce it from the Program, in the form of source code under the\nterms of section 4, provided that you also meet all of these conditions:\n\n    a) The work must carry prominent notices stating that you modified\n    it, and giving a relevant date.\n\n    b) The work must carry prominent notices stating that it is\n    released under this License and any conditions added under section\n    7.  This requirement modifies the requirement in section 4 to\n    \"keep intact all notices\".\n\n    c) You must license the entire work, as a whole, under this\n    License to anyone who comes into possession of a copy.  This\n    License will therefore apply, along with any applicable section 7\n    additional terms, to the whole of the work, and all its parts,\n    regardless of how they are packaged.  This License gives no\n    permission to license the work in any other way, but it does not\n    invalidate such permission if you have separately received it.\n\n    d) If the work has interactive user interfaces, each must display\n    Appropriate Legal Notices; however, if the Program has interactive\n    interfaces that do not display Appropriate Legal Notices, your\n    work need not make them do so.\n\n  A compilation of a covered work with other separate and independent\nworks, which are not by their nature extensions of the covered work,\nand which are not combined with it such as to form a larger program,\nin or on a volume of a storage or distribution medium, is called an\n\"aggregate\" if the compilation and its resulting copyright are not\nused to limit the access or legal rights of the compilation's users\nbeyond what the individual works permit.  Inclusion of a covered work\nin an aggregate does not cause this License to apply to the other\nparts of the aggregate.\n\n  6. Conveying Non-Source Forms.\n\n  You may convey a covered work in object code form under the terms\nof sections 4 and 5, provided that you also convey the\nmachine-readable Corresponding Source under the terms of this License,\nin one of these ways:\n\n    a) Convey the object code in, or embodied in, a physical product\n    (including a physical distribution medium), accompanied by the\n    Corresponding Source fixed on a durable physical medium\n    customarily used for software interchange.\n\n    b) Convey the object code in, or embodied in, a physical product\n    (including a physical distribution medium), accompanied by a\n    written offer, valid for at least three years and valid for as\n    long as you offer spare parts or customer support for that product\n    model, to give anyone who possesses the object code either (1) a\n    copy of the Corresponding Source for all the software in the\n    product that is covered by this License, on a durable physical\n    medium customarily used for software interchange, for a price no\n    more than your reasonable cost of physically performing this\n    conveying of source, or (2) access to copy the\n    Corresponding Source from a network server at no charge.\n\n    c) Convey individual copies of the object code with a copy of the\n    written offer to provide the Corresponding Source.  This\n    alternative is allowed only occasionally and noncommercially, and\n    only if you received the object code with such an offer, in accord\n    with subsection 6b.\n\n    d) Convey the object code by offering access from a designated\n    place (gratis or for a charge), and offer equivalent access to the\n    Corresponding Source in the same way through the same place at no\n    further charge.  You need not require recipients to copy the\n    Corresponding Source along with the object code.  If the place to\n    copy the object code is a network server, the Corresponding Source\n    may be on a different server (operated by you or a third party)\n    that supports equivalent copying facilities, provided you maintain\n    clear directions next to the object code saying where to find the\n    Corresponding Source.  Regardless of what server hosts the\n    Corresponding Source, you remain obligated to ensure that it is\n    available for as long as needed to satisfy these requirements.\n\n    e) Convey the object code using peer-to-peer transmission, provided\n    you inform other peers where the object code and Corresponding\n    Source of the work are being offered to the general public at no\n    charge under subsection 6d.\n\n  A separable portion of the object code, whose source code is excluded\nfrom the Corresponding Source as a System Library, need not be\nincluded in conveying the object code work.\n\n  A \"User Product\" is either (1) a \"consumer product\", which means any\ntangible personal property which is normally used for personal, family,\nor household purposes, or (2) anything designed or sold for incorporation\ninto a dwelling.  In determining whether a product is a consumer product,\ndoubtful cases shall be resolved in favor of coverage.  For a particular\nproduct received by a particular user, \"normally used\" refers to a\ntypical or common use of that class of product, regardless of the status\nof the particular user or of the way in which the particular user\nactually uses, or expects or is expected to use, the product.  A product\nis a consumer product regardless of whether the product has substantial\ncommercial, industrial or non-consumer uses, unless such uses represent\nthe only significant mode of use of the product.\n\n  \"Installation Information\" for a User Product means any methods,\nprocedures, authorization keys, or other information required to install\nand execute modified versions of a covered work in that User Product from\na modified version of its Corresponding Source.  The information must\nsuffice to ensure that the continued functioning of the modified object\ncode is in no case prevented or interfered with solely because\nmodification has been made.\n\n  If you convey an object code work under this section in, or with, or\nspecifically for use in, a User Product, and the conveying occurs as\npart of a transaction in which the right of possession and use of the\nUser Product is transferred to the recipient in perpetuity or for a\nfixed term (regardless of how the transaction is characterized), the\nCorresponding Source conveyed under this section must be accompanied\nby the Installation Information.  But this requirement does not apply\nif neither you nor any third party retains the ability to install\nmodified object code on the User Product (for example, the work has\nbeen installed in ROM).\n\n  The requirement to provide Installation Information does not include a\nrequirement to continue to provide support service, warranty, or updates\nfor a work that has been modified or installed by the recipient, or for\nthe User Product in which it has been modified or installed.  Access to a\nnetwork may be denied when the modification itself materially and\nadversely affects the operation of the network or violates the rules and\nprotocols for communication across the network.\n\n  Corresponding Source conveyed, and Installation Information provided,\nin accord with this section must be in a format that is publicly\ndocumented (and with an implementation available to the public in\nsource code form), and must require no special password or key for\nunpacking, reading or copying.\n\n  7. Additional Terms.\n\n  \"Additional permissions\" are terms that supplement the terms of this\nLicense by making exceptions from one or more of its conditions.\nAdditional permissions that are applicable to the entire Program shall\nbe treated as though they were included in this License, to the extent\nthat they are valid under applicable law.  If additional permissions\napply only to part of the Program, that part may be used separately\nunder those permissions, but the entire Program remains governed by\nthis License without regard to the additional permissions.\n\n  When you convey a copy of a covered work, you may at your option\nremove any additional permissions from that copy, or from any part of\nit.  (Additional permissions may be written to require their own\nremoval in certain cases when you modify the work.)  You may place\nadditional permissions on material, added by you to a covered work,\nfor which you have or can give appropriate copyright permission.\n\n  Notwithstanding any other provision of this License, for material you\nadd to a covered work, you may (if authorized by the copyright holders of\nthat material) supplement the terms of this License with terms:\n\n    a) Disclaiming warranty or limiting liability differently from the\n    terms of sections 15 and 16 of this License; or\n\n    b) Requiring preservation of specified reasonable legal notices or\n    author attributions in that material or in the Appropriate Legal\n    Notices displayed by works containing it; or\n\n    c) Prohibiting misrepresentation of the origin of that material, or\n    requiring that modified versions of such material be marked in\n    reasonable ways as different from the original version; or\n\n    d) Limiting the use for publicity purposes of names of licensors or\n    authors of the material; or\n\n    e) Declining to grant rights under trademark law for use of some\n    trade names, trademarks, or service marks; or\n\n    f) Requiring indemnification of licensors and authors of that\n    material by anyone who conveys the material (or modified versions of\n    it) with contractual assumptions of liability to the recipient, for\n    any liability that these contractual assumptions directly impose on\n    those licensors and authors.\n\n  All other non-permissive additional terms are considered \"further\nrestrictions\" within the meaning of section 10.  If the Program as you\nreceived it, or any part of it, contains a notice stating that it is\ngoverned by this License along with a term that is a further\nrestriction, you may remove that term.  If a license document contains\na further restriction but permits relicensing or conveying under this\nLicense, you may add to a covered work material governed by the terms\nof that license document, provided that the further restriction does\nnot survive such relicensing or conveying.\n\n  If you add terms to a covered work in accord with this section, you\nmust place, in the relevant source files, a statement of the\nadditional terms that apply to those files, or a notice indicating\nwhere to find the applicable terms.\n\n  Additional terms, permissive or non-permissive, may be stated in the\nform of a separately written license, or stated as exceptions;\nthe above requirements apply either way.\n\n  8. Termination.\n\n  You may not propagate or modify a covered work except as expressly\nprovided under this License.  Any attempt otherwise to propagate or\nmodify it is void, and will automatically terminate your rights under\nthis License (including any patent licenses granted under the third\nparagraph of section 11).\n\n  However, if you cease all violation of this License, then your\nlicense from a particular copyright holder is reinstated (a)\nprovisionally, unless and until the copyright holder explicitly and\nfinally terminates your license, and (b) permanently, if the copyright\nholder fails to notify you of the violation by some reasonable means\nprior to 60 days after the cessation.\n\n  Moreover, your license from a particular copyright holder is\nreinstated permanently if the copyright holder notifies you of the\nviolation by some reasonable means, this is the first time you have\nreceived notice of violation of this License (for any work) from that\ncopyright holder, and you cure the violation prior to 30 days after\nyour receipt of the notice.\n\n  Termination of your rights under this section does not terminate the\nlicenses of parties who have received copies or rights from you under\nthis License.  If your rights have been terminated and not permanently\nreinstated, you do not qualify to receive new licenses for the same\nmaterial under section 10.\n\n  9. Acceptance Not Required for Having Copies.\n\n  You are not required to accept this License in order to receive or\nrun a copy of the Program.  Ancillary propagation of a covered work\noccurring solely as a consequence of using peer-to-peer transmission\nto receive a copy likewise does not require acceptance.  However,\nnothing other than this License grants you permission to propagate or\nmodify any covered work.  These actions infringe copyright if you do\nnot accept this License.  Therefore, by modifying or propagating a\ncovered work, you indicate your acceptance of this License to do so.\n\n  10. Automatic Licensing of Downstream Recipients.\n\n  Each time you convey a covered work, the recipient automatically\nreceives a license from the original licensors, to run, modify and\npropagate that work, subject to this License.  You are not responsible\nfor enforcing compliance by third parties with this License.\n\n  An \"entity transaction\" is a transaction transferring control of an\norganization, or substantially all assets of one, or subdividing an\norganization, or merging organizations.  If propagation of a covered\nwork results from an entity transaction, each party to that\ntransaction who receives a copy of the work also receives whatever\nlicenses to the work the party's predecessor in interest had or could\ngive under the previous paragraph, plus a right to possession of the\nCorresponding Source of the work from the predecessor in interest, if\nthe predecessor has it or can get it with reasonable efforts.\n\n  You may not impose any further restrictions on the exercise of the\nrights granted or affirmed under this License.  For example, you may\nnot impose a license fee, royalty, or other charge for exercise of\nrights granted under this License, and you may not initiate litigation\n(including a cross-claim or counterclaim in a lawsuit) alleging that\nany patent claim is infringed by making, using, selling, offering for\nsale, or importing the Program or any portion of it.\n\n  11. Patents.\n\n  A \"contributor\" is a copyright holder who authorizes use under this\nLicense of the Program or a work on which the Program is based.  The\nwork thus licensed is called the contributor's \"contributor version\".\n\n  A contributor's \"essential patent claims\" are all patent claims\nowned or controlled by the contributor, whether already acquired or\nhereafter acquired, that would be infringed by some manner, permitted\nby this License, of making, using, or selling its contributor version,\nbut do not include claims that would be infringed only as a\nconsequence of further modification of the contributor version.  For\npurposes of this definition, \"control\" includes the right to grant\npatent sublicenses in a manner consistent with the requirements of\nthis License.\n\n  Each contributor grants you a non-exclusive, worldwide, royalty-free\npatent license under the contributor's essential patent claims, to\nmake, use, sell, offer for sale, import and otherwise run, modify and\npropagate the contents of its contributor version.\n\n  In the following three paragraphs, a \"patent license\" is any express\nagreement or commitment, however denominated, not to enforce a patent\n(such as an express permission to practice a patent or covenant not to\nsue for patent infringement).  To \"grant\" such a patent license to a\nparty means to make such an agreement or commitment not to enforce a\npatent against the party.\n\n  If you convey a covered work, knowingly relying on a patent license,\nand the Corresponding Source of the work is not available for anyone\nto copy, free of charge and under the terms of this License, through a\npublicly available network server or other readily accessible means,\nthen you must either (1) cause the Corresponding Source to be so\navailable, or (2) arrange to deprive yourself of the benefit of the\npatent license for this particular work, or (3) arrange, in a manner\nconsistent with the requirements of this License, to extend the patent\nlicense to downstream recipients.  \"Knowingly relying\" means you have\nactual knowledge that, but for the patent license, your conveying the\ncovered work in a country, or your recipient's use of the covered work\nin a country, would infringe one or more identifiable patents in that\ncountry that you have reason to believe are valid.\n\n  If, pursuant to or in connection with a single transaction or\narrangement, you convey, or propagate by procuring conveyance of, a\ncovered work, and grant a patent license to some of the parties\nreceiving the covered work authorizing them to use, propagate, modify\nor convey a specific copy of the covered work, then the patent license\nyou grant is automatically extended to all recipients of the covered\nwork and works based on it.\n\n  A patent license is \"discriminatory\" if it does not include within\nthe scope of its coverage, prohibits the exercise of, or is\nconditioned on the non-exercise of one or more of the rights that are\nspecifically granted under this License.  You may not convey a covered\nwork if you are a party to an arrangement with a third party that is\nin the business of distributing software, under which you make payment\nto the third party based on the extent of your activity of conveying\nthe work, and under which the third party grants, to any of the\nparties who would receive the covered work from you, a discriminatory\npatent license (a) in connection with copies of the covered work\nconveyed by you (or copies made from those copies), or (b) primarily\nfor and in connection with specific products or compilations that\ncontain the covered work, unless you entered into that arrangement,\nor that patent license was granted, prior to 28 March 2007.\n\n  Nothing in this License shall be construed as excluding or limiting\nany implied license or other defenses to infringement that may\notherwise be available to you under applicable patent law.\n\n  12. No Surrender of Others' Freedom.\n\n  If conditions are imposed on you (whether by court order, agreement or\notherwise) that contradict the conditions of this License, they do not\nexcuse you from the conditions of this License.  If you cannot convey a\ncovered work so as to satisfy simultaneously your obligations under this\nLicense and any other pertinent obligations, then as a consequence you may\nnot convey it at all.  For example, if you agree to terms that obligate you\nto collect a royalty for further conveying from those to whom you convey\nthe Program, the only way you could satisfy both those terms and this\nLicense would be to refrain entirely from conveying the Program.\n\n  13. Use with the GNU Affero General Public License.\n\n  Notwithstanding any other provision of this License, you have\npermission to link or combine any covered work with a work licensed\nunder version 3 of the GNU Affero General Public License into a single\ncombined work, and to convey the resulting work.  The terms of this\nLicense will continue to apply to the part which is the covered work,\nbut the special requirements of the GNU Affero General Public License,\nsection 13, concerning interaction through a network will apply to the\ncombination as such.\n\n  14. Revised Versions of this License.\n\n  The Free Software Foundation may publish revised and/or new versions of\nthe GNU General Public License from time to time.  Such new versions will\nbe similar in spirit to the present version, but may differ in detail to\naddress new problems or concerns.\n\n  Each version is given a distinguishing version number.  If the\nProgram specifies that a certain numbered version of the GNU General\nPublic License \"or any later version\" applies to it, you have the\noption of following the terms and conditions either of that numbered\nversion or of any later version published by the Free Software\nFoundation.  If the Program does not specify a version number of the\nGNU General Public License, you may choose any version ever published\nby the Free Software Foundation.\n\n  If the Program specifies that a proxy can decide which future\nversions of the GNU General Public License can be used, that proxy's\npublic statement of acceptance of a version permanently authorizes you\nto choose that version for the Program.\n\n  Later license versions may give you additional or different\npermissions.  However, no additional obligations are imposed on any\nauthor or copyright holder as a result of your choosing to follow a\nlater version.\n\n  15. Disclaimer of Warranty.\n\n  THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY\nAPPLICABLE LAW.  EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT\nHOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM \"AS IS\" WITHOUT WARRANTY\nOF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,\nTHE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR\nPURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM\nIS WITH YOU.  SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF\nALL NECESSARY SERVICING, REPAIR OR CORRECTION.\n\n  16. Limitation of Liability.\n\n  IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING\nWILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS\nTHE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY\nGENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE\nUSE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF\nDATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD\nPARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS),\nEVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF\nSUCH DAMAGES.\n\n  17. Interpretation of Sections 15 and 16.\n\n  If the disclaimer of warranty and limitation of liability provided\nabove cannot be given local legal effect according to their terms,\nreviewing courts shall apply local law that most closely approximates\nan absolute waiver of all civil liability in connection with the\nProgram, unless a warranty or assumption of liability accompanies a\ncopy of the Program in return for a fee.\n\n                     END OF TERMS AND CONDITIONS\n\n            How to Apply These Terms to Your New Programs\n\n  If you develop a new program, and you want it to be of the greatest\npossible use to the public, the best way to achieve this is to make it\nfree software which everyone can redistribute and change under these terms.\n\n  To do so, attach the following notices to the program.  It is safest\nto attach them to the start of each source file to most effectively\nstate the exclusion of warranty; and each file should have at least\nthe \"copyright\" line and a pointer to where the full notice is found.\n\n    <one line to give the program's name and a brief idea of what it does.>\n    Copyright (C) <year>  <name of author>\n\n    This program is free software: you can redistribute it and/or modify\n    it under the terms of the GNU General Public License as published by\n    the Free Software Foundation, either version 3 of the License, or\n    (at your option) any later version.\n\n    This program is distributed in the hope that it will be useful,\n    but WITHOUT ANY WARRANTY; without even the implied warranty of\n    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n    GNU General Public License for more details.\n\n    You should have received a copy of the GNU General Public License\n    along with this program.  If not, see <https://www.gnu.org/licenses/>.\n\nAlso add information on how to contact you by electronic and paper mail.\n\n  If the program does terminal interaction, make it output a short\nnotice like this when it starts in an interactive mode:\n\n    <program>  Copyright (C) <year>  <name of author>\n    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.\n    This is free software, and you are welcome to redistribute it\n    under certain conditions; type `show c' for details.\n\nThe hypothetical commands `show w' and `show c' should show the appropriate\nparts of the General Public License.  Of course, your program's commands\nmight be different; for a GUI interface, you would use an \"about box\".\n\n  You should also get your employer (if you work as a programmer) or school,\nif any, to sign a \"copyright disclaimer\" for the program, if necessary.\nFor more information on this, and how to apply and follow the GNU GPL, see\n<https://www.gnu.org/licenses/>.\n\n  The GNU General Public License does not permit incorporating your program\ninto proprietary programs.  If your program is a subroutine library, you\nmay consider it more useful to permit linking proprietary applications with\nthe library.  If this is what you want to do, use the GNU Lesser General\nPublic License instead of this License.  But first, please read\n<https://www.gnu.org/licenses/why-not-lgpl.html>.\n",
     "source_count": 2,
     "source_datasets": [
@@ -44,7 +44,14 @@
         "license_status": "No explicit license file detected in the source repository; uploader confirmed permission to include the complete text in this public combined dataset.",
         "record_field": "source_dataset_id"
       }
-    ]
+    ],
+    "poet_profiles_count": 137,
+    "poet_profiles_researched": 63,
+    "poet_profiles_pending": 74,
+    "poet_photo_urls": 29,
+    "poet_profiles_status": "Partial: 63 of 137 profiles have sourced biographies; 29 profiles include a sourced photo URL with license metadata. The remaining 74 were not researched because the background workflow stopped at the available credit limit. Unresearched fields are null and marked pending.",
+    "poet_profile_join_key": "poets[].name matches records[].poet",
+    "profile_data_note": "Photo URLs point to source-hosted image files or source redirects; photo license and attribution details are recorded per poet. A null photo_url means no image with a verified reusable source was found in the completed research."
   },
   "records": [
     {
@@ -150777,6 +150784,1749 @@
       "source_commit": "b7e7c8c4ef865b3b1dd2d048e32c1a48b499dea5",
       "source_collection": "স্মরণ",
       "source_path": "Data/Tagore/স্মরণ/৯.utf8"
+    }
+  ],
+  "poets": [
+    {
+      "name": "অতুলপ্রসাদ সেন",
+      "biography_bn": "অতুলপ্রসাদ সেন (২০ অক্টোবর ১৮৭১–২৬ আগস্ট ১৯৩৪) ছিলেন ঢাকায় জন্মগ্রহণকারী বাঙালি কবি, গীতিকার, গায়ক ও সুরকার; তিনি পেশায় ব্যারিস্টার ছিলেন এবং জীবনের দীর্ঘ সময় লক্ষ্ণৌতে কাটান। বাংলা গানে ঠুংরি ও রাগপ্রধান হিন্দুস্থানি রীতির সৃজনশীল প্রয়োগ এবং স্বদেশী, ভক্তিমূলক ও প্রেমের গানের মাধ্যমে তিনি স্বতন্ত্র অবদান রাখেন; তাঁর গান ‘অতুলপ্রসাদের গান’ নামে পরিচিত।",
+      "bio_source_urls": [
+        "https://bn.banglapedia.org/index.php?title=%E0%A6%B8%E0%A7%87%E0%A6%A8,_%E0%A6%85%E0%A6%A4%E0%A7%81%E0%A6%B2%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A6%A6",
+        "https://en.banglapedia.org/index.php?title=Sen,_Atulprasad"
+      ],
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Portrait_of_Atul_Prasad_Sen_in_1895.jpg",
+      "photo_source_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Atul_Prasad_Sen_in_1895.jpg",
+      "photo_license": "পাবলিক ডোমেইন: Wikimedia Commons ফাইল-পৃষ্ঠা অনুযায়ী ভারতে কপিরাইট-মেয়াদোত্তীর্ণ/অযোগ্য; যুক্তরাষ্ট্রে ১৯৩১-এর আগে প্রকাশিত হওয়ায় পাবলিক ডোমেইন। অন্যান্য দেশের ক্ষেত্রে স্থানীয় কপিরাইট আইন যাচাই প্রয়োজন।",
+      "photo_attribution": "Wikimedia Commons-এ তালিকাভুক্ত লেখক: Atul Prasad Sen; মূল প্রকাশ ১৮৯৫। উৎস: Kalyan Kumar Basu, Amare e aandhare (1969), Commons ফাইল-পৃষ্ঠায় বর্ণিত।",
+      "notes_bn": "বাংলাপিডিয়ার বাংলা ও ইংরেজি নিবন্ধে জন্ম ২০ অক্টোবর ১৮৭১ এবং মৃত্যু ২৬ আগস্ট ১৯৩৪—দুই তারিখই মেলে। প্রতিকৃতিটি কমন্সে অতুলপ্রসাদ সেনের ১৮৯৫ সালের প্রতিকৃতি হিসেবে চিহ্নিত; লাইসেন্স ও উৎসের বিবরণ একই ফাইল-পৃষ্ঠায় যাচাই করা হয়েছে।",
+      "research_status": "biography_and_photo_sourced"
+    },
+    {
+      "name": "অনিতা অগ্নিহোত্রী",
+      "biography_bn": "অনিতা অগ্নিহোত্রী (জন্ম ১৯৫৬, কলকাতা) একজন ভারতীয় বাঙালি কবি ও কথাসাহিত্যিক; কবিতা, ছোটগল্প, উপন্যাস, শিশুসাহিত্য ও প্রবন্ধসহ নানা ধারায় তাঁর দীর্ঘ সাহিত্যচর্চা রয়েছে। তাঁর লেখায় ভারতীয় সমাজ, প্রান্তিক মানুষের জীবন ও বাস্তবতার অন্বেষণ গুরুত্বপূর্ণ, এবং তাঁর বহু রচনা বিভিন্ন ভারতীয় ও বিদেশি ভাষায় অনূদিত হয়েছে; তিনি অবসরপ্রাপ্ত ভারতীয় প্রশাসনিক কর্মকর্তা (IAS)।",
+      "bio_source_urls": [
+        "https://shuddhashar.com/sarojbala-by-anita-agnihotri/",
+        "https://www.theantonymmag.com/interview-with-anita-agnihotri-owshnik-ghosh/",
+        "https://www.anitaagnihotri.com/about-anita-agnihotri.html",
+        "https://niyogibooksindia.com/author/anita-agnihotri/"
+      ],
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/The_Secretary%2C_Ministry_of_Social_Justice_and_Empowerment%2C_Ms._Anita_Agnihotri_and_the_MD-NSKFDC_%28cropped%29.jpg",
+      "photo_source_url": "https://commons.wikimedia.org/wiki/File:The_Secretary,_Ministry_of_Social_Justice_and_Empowerment,_Ms._Anita_Agnihotri_and_the_MD-NSKFDC_(cropped).jpg",
+      "photo_license": "Government Open Data License - India (GODL-India)",
+      "photo_attribution": "Ministry of Social Justice & Empowerment (GODL-India); মূল ছবির সরকারি উৎসের বর্ণনা অনুযায়ী Photo Division। উৎস ও লাইসেন্স উল্লেখ করে ব্যবহার করতে হবে।",
+      "notes_bn": "জন্মসাল ১৯৫৬ কলকাতার সাহিত্যপত্র Shuddhashar-এ উল্লেখিত; নির্ভরযোগ্য স্বাধীন সূত্রে দিন-তারিখ নিশ্চিত না হওয়ায় তা বাদ রাখা হয়েছে। মৃত্যুসাল নেই—উৎসগুলো তাঁকে জীবিত/অবসরপ্রাপ্ত লেখক হিসেবে বর্ণনা করে। প্রতিকৃতিটি সরকারি সচিব অনিতা অগ্নিহোত্রীর ছবি; তাঁর নিজের সাইটে IAS পরিচয় এবং Commons ফাইলের সরকারি ক্যাপশনে নাম ও পদ মিলিয়ে ব্যক্তির পরিচয় যাচাই করা হয়েছে।",
+      "research_status": "biography_and_photo_sourced"
+    },
+    {
+      "name": "অন্নদাশঙ্কর রায়",
+      "biography_bn": "অন্নদাশঙ্কর রায় (১৯০৪–২০০২) ছিলেন বাঙালি ঔপন্যাসিক, প্রাবন্ধিক, কবি ও চিন্তাবিদ; ওড়িশার ঢেঙ্কানালে তাঁর জন্ম। তিনি উপন্যাস, প্রবন্ধ, ভ্রমণকাহিনি, কবিতা ও ছড়াসহ নানা ধারায় বাংলা সাহিত্যকে সমৃদ্ধ করেন; বাংলা ছড়ায় লিমেরিকের প্রবর্তক ও আধুনিক ছড়ার বৈচিত্র্যসাধনে অগ্রণী হিসেবে পরিচিত।",
+      "bio_source_urls": [
+        "https://bn.banglapedia.org/index.php?title=%E0%A6%B0%E0%A6%BE%E0%A6%AF%E0%A6%BC,_%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%A6%E0%A6%BE%E0%A6%B6%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%B0",
+        "https://en.banglapedia.org/index.php/Ray,_Annada_Sankar"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "জীবনী ও প্রতিকৃতির উৎস পৃথক URL-এ দেওয়া আছে। ছবির লাইসেন্স ও কৃতিত্বের শর্ত photo_license এবং photo_attribution-এ দেখুন।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "অমিতাভ দাশগুপ্ত",
+      "biography_bn": "অমিতাভ দাশগুপ্ত (১৯৩৫–২০০৭) ছিলেন ফরিদপুরে জন্ম নেওয়া বাঙালি কবি; তিনি অধ্যাপনা ও সাহিত্যসম্পাদনার সঙ্গেও যুক্ত ছিলেন। তাঁর ‘আমার নীরবতা আমার ভাষা’ কাব্যগ্রন্থের জন্য ১৯৯৯ সালে রবীন্দ্র পুরস্কার দেওয়া হয়; তাঁর কবিতাকে পঞ্চাশের দশকের বাংলা কবিতার গুরুত্বপূর্ণ অবদান হিসেবে গবেষণায় আলোচিত হয়েছে।",
+      "bio_source_urls": [
+        "https://teachers.gov.bd/content/details/653993",
+        "https://tirj.org.in/tirj/article/view/241",
+        "https://robbar.in/daily-update/my-father-poet-amitabha-dasgupta-by-dipta-dasgupta/pid/37147/"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "জন্মের সুনির্দিষ্ট দিন নিয়ে অনলাইন জীবনীসূত্রে অমিল আছে; তাই কেবল সরকারি শিক্ষক বাতায়নে সমর্থিত জন্ম ও মৃত্যুর সাল উল্লেখ করেছি। রববারের নিবন্ধে কবির ছবি থাকলেও সেখানে পুনঃব্যবহারের লাইসেন্স দেওয়া নেই, এবং নির্ভরযোগ্য মুক্ত-লাইসেন্সযুক্ত সরাসরি ছবির URL যাচাই করা যায়নি—তাই প্রতিকৃতির ক্ষেত্রগুলো null রাখা হয়েছে।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "অমিয় চক্রবর্তী",
+      "biography_bn": "অমিয় চক্রবর্তী (১৯০১–১৯৮৬) ছিলেন বাঙালি কবি, সাহিত্যসমালোচক ও গবেষক; তিনি রবীন্দ্রনাথ ঠাকুরের সাহিত্য-সচিব হিসেবে কাজ করেন এবং বিশ্বভারতীসহ দেশ-বিদেশের প্রতিষ্ঠানে শিক্ষকতা করেন। তাঁর কবিতায় ভ্রমণ-অভিজ্ঞতা, আধ্যাত্মিকতা ও বিশ্বজনীন ভাবনার প্রকাশ দেখা যায়; ‘ঘরে ফেরার দিন’-এর জন্য তিনি সাহিত্য অকাদেমি পুরস্কার পান।",
+      "bio_source_urls": [
+        "https://en.banglapedia.org/index.php/Chakravarty,_Amiya",
+        "https://www.visvabharati.ac.in/home/amiya-chakravarty/"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "বিশ্বভারতী ও Banglapedia—দুটি সূত্রেই কবির পরিচয় ও ১৯০১–১৯৮৬ সাল সমর্থিত। পুনঃব্যবহারের শর্তসহ কবির নিশ্চিত প্রতিকৃতি যাচাই করা যায়নি, তাই portrait_* ক্ষেত্র null রাখা হয়েছে; Commons-এ কাছাকাছি নামের শ্রেণিটি ১৯১২–১৯৫৭ সালের চলচ্চিত্র পরিচালক অমিয় চক্রবর্তীর, কবির নয়: https://commons.wikimedia.org/wiki/Category:Amiya_Chakravarty",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "অরুণ মিত্র",
+      "biography_bn": "অরুণ মিত্র (২ নভেম্বর ১৯০৯–২২ আগস্ট ২০০০) ছিলেন যশোরে জন্ম নেওয়া আধুনিক বাংলা কবি ও প্রাবন্ধিক। কবিতার পাশাপাশি তিনি ফরাসি সাহিত্য—বিশেষত ফরাসি কবিতা—বাংলায় অনুবাদ করে বাংলা পাঠকের কাছে পৌঁছে দেওয়ায় উল্লেখযোগ্য অবদান রাখেন।",
+      "bio_source_urls": [
+        "https://www.prothomalo.com/onnoalo/treatise/ic7jupx7g0",
+        "https://sahitya-akademi.gov.in/literaray-activities/through_my%20_window.jsp"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "প্রথম আলোর স্মৃতিচারণে তাঁর জন্মতারিখ ও মৃত্যুর তারিখ উল্লেখ আছে এবং ফরাসি কবিতা অনুবাদের কাজের বিবরণ দেওয়া হয়েছে; সাহিত্য আকাদেমির পৃষ্ঠায় তাঁর নামে ২০০০ সালের একটি স্মরণ-আলোচনার নথি রয়েছে। Wikimedia Commons-এ CC BY-SA 4.0-চিহ্নিত ‘Arun Mitra.jpg’ ফাইল পাওয়া গেলেও ফাইলের বর্ণনা ছবিতে কাকে দেখানো হয়েছে তা নিশ্চিত করে না; তাই ভুল ব্যক্তির ছবি দেওয়ার ঝুঁকি এড়িয়ে প্রতিকৃতির সব ক্ষেত্র null রাখা হয়েছে।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "অরুণাভ ঘোষ",
+      "biography_bn": "অরুণাভ ঘোষ নামে একজন কবির ‘শাহবাগ’ কবিতা বাংলা কবিতা নামের অনলাইন সংকলনে প্রকাশিত হয়েছে। Bangla Journal-এর অবদানকারী-পরিচিতিতে একই নামে পশ্চিমবঙ্গের একটি কলেজের ইংরেজি ভাষার সহকারী অধ্যাপক ও বিংশ শতকের শেষভাগের মার্কিন সাহিত্য-গবেষক হিসেবে পরিচয় দেওয়া হয়েছে; তাঁর বাংলা ও ইংরেজি প্রবন্ধ বিভিন্ন পত্রিকায় প্রকাশিত হয়েছে। নির্ভরযোগ্য সূত্রে জন্ম বা মৃত্যুসাল পাওয়া যায়নি।",
+      "bio_source_urls": [
+        "https://banglapoems.wordpress.com/2013/03/12/%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A6%AC%E0%A6%BE%E0%A6%97-%E0%A6%85%E0%A6%B0%E0%A7%81%E0%A6%A3%E0%A6%BE%E0%A6%AD-%E0%A6%98%E0%A7%8B%E0%A6%B7/",
+        "http://banglajournal.org/contributor/115"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "অনলাইন কবিতা-সংকলন ও Bangla Journal-এ একই নামের উল্লেখ পাওয়া গেলেও, সূত্রগুলো নিশ্চিত করে না যে কবিতার লেখক ও জার্নালের অবদানকারী একই ব্যক্তি; তাই জীবনীতে পরিচয়টি সতর্কভাবে উপস্থাপন করা হয়েছে। নির্ভরযোগ্য পরিচয়-সমর্থিত সরাসরি প্রতিকৃতি এবং পুনঃব্যবহারের লাইসেন্স/শর্ত যাচাই করা যায়নি, তাই portrait ক্ষেত্রগুলো null রাখা হয়েছে। কাছাকাছি নামের ব্যক্তি—যেমন অরুণেশ ঘোষ—এর তথ্য এখানে ব্যবহার করা হয়নি।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "অসীম সাহা",
+      "biography_bn": "অসীম সাহা (২০ ফেব্রুয়ারি ১৯৪৯ – ১৮ জুন ২০২৪) ছিলেন বাংলাদেশের কবি ও ঔপন্যাসিক; তাঁর জন্ম নেত্রকোণায়। বাংলা সাহিত্যে অবদানের স্বীকৃতিতে তিনি ২০১২ সালে বাংলা একাডেমি সাহিত্য পুরস্কার এবং ২০১৯ সালে একুশে পদক পান।",
+      "bio_source_urls": [
+        "https://bangla.thedailystar.net/news/bangladesh/news-591066",
+        "https://www.bssnews.net/news/195716"
+      ],
+      "photo_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ashim_Saha_picture.jpg",
+      "photo_source_url": "https://commons.wikimedia.org/wiki/File:Ashim_Saha_picture.jpg",
+      "photo_license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "photo_attribution": "DelwarHossain (নিজস্ব কাজ), CC BY-SA 4.0; পুনঃব্যবহারে উপযুক্ত স্বীকৃতি, লাইসেন্সের লিংক ও পরিবর্তন থাকলে তা উল্লেখ করুন।",
+      "notes_bn": "জন্ম-মৃত্যু ও সাহিত্য-পুরস্কারের তথ্য ডেইলি স্টার ও বাংলাদেশ সংবাদ সংস্থার প্রতিবেদনে সমর্থিত। Commons ফাইলের বর্ণনা ছবিটিকে চাঁদপুরে অসীম সাহার বক্তব্য দেওয়ার ছবি হিসেবে শনাক্ত করে এবং CC BY-SA 4.0 লাইসেন্স উল্লেখ করে; পরিচয় ও লাইসেন্সের ভিত্তি সেই ফাইলের বিবরণ।",
+      "research_status": "biography_and_photo_sourced"
+    },
+    {
+      "name": "অ্যালেন গিন্সবার্গ",
+      "biography_bn": "অ্যালেন গিন্সবার্গ (৩ জুন ১৯২৬–৫ এপ্রিল ১৯৯৭) ছিলেন একজন মার্কিন কবি এবং বিট আন্দোলনের অন্যতম প্রধান সাহিত্যিক; তিনি নিউ জার্সির নিউয়ার্কে জন্মগ্রহণ করেন। তাঁর দীর্ঘ কবিতা ‘Howl’ (১৯৫৬) বিট আন্দোলনের গুরুত্বপূর্ণ রচনা হিসেবে বিবেচিত, আর ‘Kaddish’ (১৯৬১) তাঁর উল্লেখযোগ্য কবিতাগুলোর একটি।",
+      "bio_source_urls": [
+        "https://www.britannica.com/biography/Allen-Ginsberg",
+        "https://www.poetryfoundation.org/poets/allen-ginsberg"
+      ],
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Allen_Ginsberg_1979_-_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photo_source_url": "https://commons.wikimedia.org/wiki/File:Allen_Ginsberg_1979_-_cropped.jpg",
+      "photo_license": "CC0 1.0 (Creative Commons Public Domain Dedication): https://creativecommons.org/publicdomain/zero/1.0/",
+      "photo_attribution": "Hans van Dijk for Anefo; ছবিটি ২৪ নভেম্বর ১৯৭৯-এ তোলা। Dutch National Archives, The Hague, ANEFO collection; Commons file page-এ Allen Ginsberg-কে ছবির ব্যক্তি হিসেবে চিহ্নিত করা হয়েছে।",
+      "notes_bn": "জন্ম-মৃত্যুর তারিখ ও বিট কবি হিসেবে পরিচয় Britannica-র জীবনী থেকে; সাহিত্যিক অবদান Poetry Foundation-এও বর্ণিত। প্রতিকৃতির পরিচয়, আলোকচিত্রীর কৃতিত্ব ও CC0 লাইসেন্স Wikimedia Commons-এর ফাইল পাতায় যাচাই করা হয়েছে; পাতাটি ছবির মূল সংগ্রহ হিসেবে Dutch National Archives-এর ANEFO সংগ্রহ উল্লেখ করে।",
+      "research_status": "biography_and_photo_sourced"
+    },
+    {
+      "name": "আ. ন. ম. বজলুর রশীদ",
+      "biography_bn": "আবু নঈম মোহাম্মদ বজলুর রশীদ (আ. ন. ম. বজলুর রশীদ) ছিলেন বাংলাদেশের কবি, নাট্যকার, ঔপন্যাসিক ও শিক্ষাবিদ; তিনি ১৯১১ সালের ৮ মে ফরিদপুরে জন্মগ্রহণ করেন এবং ১৯৮৬ সালের ৮ ডিসেম্বর মৃত্যুবরণ করেন। কবিতা, নাটক, উপন্যাস ও ভ্রমণকাহিনি—বিভিন্ন ধারায় তাঁর অবদান রয়েছে; ‘আমাদের দেশ’ ছড়া এবং ‘রক্ত কমল’-এর মতো রচনার জন্যও তিনি পরিচিত।",
+      "bio_source_urls": [
+        "https://www.jugantor.com/shoronio-boronio/1038176",
+        "https://teachers.gov.bd/content/details/938270",
+        "https://bn.banglapedia.org/index.php?title=%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%AF",
+        "https://en.banglapedia.org/index.php?title=Radio_Plays"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "জন্ম-মৃত্যুর তারিখ ও পূর্ণ নামের জন্য যুগান্তর এবং সরকারি শিক্ষক বাতায়নের জীবনী-পাতা মিলিয়ে দেখা হয়েছে; Banglapedia-তেও তাঁকে নাট্যকারদের মধ্যে উল্লেখ করা হয়েছে। বজলুর রশীদের নামে বাংলা উইকিপিডিয়ার ছবির পাতায় ভোরের কাগজকে উৎস বলা হলেও ছবিটি অ-মুক্ত/কপিরাইট-সুরক্ষিত হিসেবে চিহ্নিত; পুনঃব্যবহারের অনুমতি বা মুক্ত লাইসেন্স যাচাই করা যায়নি। তাই প্রতিকৃতির URL ও লাইসেন্স-তথ্য null রাখা হয়েছে।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "আখতারুজ্জামান আজাদ",
+      "biography_bn": "আখতারুজ্জামান আজাদ (জন্ম ১৯৮৮) সমসাময়িক বাংলাদেশি কবি ও কথাকার; তাঁর সাহিত্যচর্চায় কবিতার পাশাপাশি প্রবন্ধ ও রাজনৈতিক-সামাজিক গদ্যও রয়েছে। তাঁর প্রকাশিত বইয়ের মধ্যে ‘লক্ষ্য আমার পক্ষ নেওয়া’, ‘গণকবিতাতন্ত্রী বাংলাদেশ’ ও ‘সামরিক কবি, বেসামরিক প্রেমিক’ উল্লেখযোগ্য; নির্ভরযোগ্য সূত্রে তাঁর মৃত্যুসাল পাওয়া যায়নি।",
+      "bio_source_urls": [
+        "https://www.granthagata.com/2021/03/lakkho-amar-pakkho-neoa-akhtaruzzaman-azad.html",
+        "https://www.rokomari.com/book/author/14388/akhtaruzzaman-azad",
+        "https://thesun24.com/chief-advisers-appeal-for-funds-sparks-strong-backlash/"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "জন্মসাল ১৯৮৮ সাহিত্য-সমালোচনা/বই-তথ্য এবং ২০২৫ সালের সংবাদে উদ্ধৃত তাঁর নিজের বক্তব্যে মেলে; পূর্ণ জন্মতারিখ বা মৃত্যুসালের নির্ভরযোগ্য প্রমাণ পাইনি, তাই তা যোগ করিনি। একই নামের অন্য কবির সঙ্গে গুলিয়ে না ফেলতে সমসাময়িক বাংলাদেশি লেখক হিসেবে তাঁর বই ও লেখক-পরিচয় মিলিয়ে দেখেছি। Wikimedia Commons অনুসন্ধানে তাঁর ছবি মেলেনি; অন্য কোনো ছবির পরিচয় ও পুনঃব্যবহারের লাইসেন্স নির্ভরযোগ্যভাবে যাচাই না হওয়ায় প্রতিকৃতির সব ক্ষেত্র null রাখা হয়েছে।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "আনিসুল হক",
+      "biography_bn": "আনিসুল হক (জন্ম ৪ মার্চ ১৯৬৫) বাংলাদেশের লেখক, কবি, ঔপন্যাসিক, নাট্যকার ও সাংবাদিক। তিনি কবিতা, উপন্যাস, টেলিভিশন ও চলচ্চিত্রের চিত্রনাট্য এবং সংবাদপত্রের কলাম লেখেন; তাঁর ৬০টিরও বেশি বই প্রকাশিত হয়েছে এবং তিনি বাংলা একাডেমি সাহিত্য পুরস্কারসহ বিভিন্ন স্বীকৃতি পেয়েছেন।",
+      "bio_source_urls": [
+        "https://iwp.uiowa.edu/writers/2010-resident/hoque-anisul",
+        "https://www.thedailystar.net/showbiz/through-the-eyes/anisul-hoque-1362784",
+        "https://www.harpercollins.com/blogs/authors/anisul-hoque-0012801"
+      ],
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Anisul_haque.jpg",
+      "photo_source_url": "https://commons.wikimedia.org/wiki/File:Anisul_haque.jpg",
+      "photo_license": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0): https://creativecommons.org/licenses/by-sa/3.0/",
+      "photo_attribution": "Faisal Hasan; Wikimedia Commons, “Anisul haque.jpg”.",
+      "notes_bn": "এখানে আনিসুল হক বলতে বাংলাদেশের কবি-লেখক আনিসুল হককে বোঝানো হয়েছে; একইরকম নামের রাজনীতিবিদ আনিসুল হকের সঙ্গে নয়। জন্মতারিখ ও পেশার তথ্য The Daily Star-এ, কবিতা-সহ সাহিত্যকর্মের তথ্য University of Iowa International Writing Program-এ সমর্থিত; জীবিত/মৃত্যুর তথ্যসূত্রে মৃত্যু-সাল পাইনি, তাই উল্লেখ করিনি। ছবির Commons পাতায় ব্যক্তির পরিচয় ও CC BY-SA 3.0 লাইসেন্স দেওয়া আছে; ব্যবহারে স্বীকৃতি ও share-alike শর্ত মানতে হবে।",
+      "research_status": "biography_and_photo_sourced"
+    },
+    {
+      "name": "আবদুন নুর তুষার",
+      "biography_bn": "আবদুন নূর তুষার বাংলাদেশের চিকিৎসক ও গণমাধ্যম ব্যক্তিত্ব; তিনি বিতার্কিক, টেলিভিশন উপস্থাপক এবং লেখক হিসেবেও পরিচিত। TEDxRUET-এর বক্তা-পরিচিতিতে তাঁর প্রবন্ধ, বিজ্ঞানকল্পকাহিনি ও কবিতা লেখার কথা বলা হয়েছে, আর ২০১৩ সালের একটি বাংলা কবিতার পাতায় তাঁর নামে কবিতা প্রকাশিত আছে; তবে নির্ভরযোগ্য সূত্রে জন্ম-মৃত্যুর সাল বা পৃথক পেশাগত ‘কবি’ জীবনী নিশ্চিত করা যায়নি।",
+      "bio_source_urls": [
+        "https://www.tedxruet.org/speakers/dr-abdun-noor-tushar",
+        "https://www.jagonews24.com/jago-jobs/news/76291",
+        "https://banglapoems.wordpress.com/2013/09/09/%E0%A6%86%E0%A6%AE%E0%A6%B0%E0%A6%BE-%E0%A6%8F%E0%A6%96%E0%A6%A8-%E0%A6%95%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%86%E0%A6%AC%E0%A6%A6%E0%A7%81%E0%A6%A8-%E0%A6%A8%E0%A7%81/"
+      ],
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Abdun_Noor_Tushar.jpg",
+      "photo_source_url": "https://commons.wikimedia.org/wiki/File:Abdun_Noor_Tushar.jpg",
+      "photo_license": "Creative Commons Attribution-Share Alike 4.0 International (CC BY-SA 4.0)",
+      "photo_attribution": "Aashaa, Wikimedia Commons (নিজস্ব কাজ); পুনর্ব্যবহারে লেখক-স্বীকৃতি, লাইসেন্সের লিংক ও পরিবর্তন থাকলে তা উল্লেখ করুন; অভিযোজিত হলে একই বা সামঞ্জস্যপূর্ণ লাইসেন্সে প্রকাশ করুন।",
+      "notes_bn": "কমন্সের ফাইল-পৃষ্ঠায় ছবিটির ক্যাপশন ‘Abdun Noor Tushar’, আপলোডার Aashaa এবং CC BY-SA 4.0 লাইসেন্স উল্লেখ আছে। অনুসন্ধানে একই নামে কবিতা লেখার প্রমাণ মিলেছে, কিন্তু আলাদা সাহিত্য-জীবনী ও নির্ভরযোগ্য জন্ম-মৃত্যু-সাল মেলেনি; তাই পরিচিত গণমাধ্যম-ব্যক্তিত্বের সঙ্গে সম্ভাব্য নাম-গোলমাল এড়িয়ে কবি পরিচয়টি সীমিতভাবে বর্ণনা করা হয়েছে।",
+      "research_status": "biography_and_photo_sourced"
+    },
+    {
+      "name": "আবদুল গাফফার চৌধুরী",
+      "biography_bn": "আবদুল গাফফার চৌধুরী (১২ ডিসেম্বর ১৯৩৪–১৯ মে ২০২২) ছিলেন বাংলাদেশের কবি-গীতিকার, সাংবাদিক, কলামলেখক ও সাহিত্যিক; ‘আমার ভায়ের রক্তে রাঙানো একুশে ফেব্রুয়ারি’ গানের রচয়িতা হিসেবে তিনি বিশেষভাবে পরিচিত। তিনি সাংবাদিকতার পাশাপাশি কবিতা, গল্প, উপন্যাস, নাটক ও স্মৃতিকথাসহ নানা সাহিত্যধারায় লিখেছেন।",
+      "bio_source_urls": [
+        "https://www.bssnews.net/bangla/national/42575",
+        "https://www.thedailystar.net/news/bangladesh/obituary/news/the-man-behind-the-iconic-song-3027351",
+        "https://en.prothomalo.com/bangladesh/body-of-abdul-gaffar-choudhury-brought-to-dhaka"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "জন্মতারিখ ও পেশাগত পরিচয় বাসসের প্রতিবেদনে এবং মৃত্যুর তারিখ ডেইলি স্টারের মৃত্যু-স্মরণ ও প্রথম আলোর প্রতিবেদনে মেলে। Commons-এ ‘Abdul Gaffar Choudhury.jpg’ নামের একটি ফাইলের উল্লেখ মিললেও ছবির পরিচয় ও পুনঃব্যবহারের বৈধ লাইসেন্স নির্ভরযোগ্যভাবে যাচাই করা যায়নি; তাই প্রতিকৃতির সব ক্ষেত্র null রাখা হয়েছে।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "আবদুল হাকিম",
+      "biography_bn": "আবদুল হাকিম (১৬২০–১৬৯০) মধ্যযুগীয় বাংলা সাহিত্যের কবি; বাংলা ছাড়াও তিনি আরবি, ফারসি ও সংস্কৃতে পণ্ডিত ছিলেন। তাঁর রচনার মধ্যে ফারসি কাব্যের ভাবানুবাদ ইউসুফ-জুলেখা, নূরনামা ও দুররে মজলিশ এবং মৌলিক প্রণয়োপাখ্যান লালমোতি সয়ফুল্মূল্ক উল্লেখযোগ্য; বাংলা ভাষার প্রতি শ্রদ্ধাবোধের প্রকাশের জন্যও তিনি স্মরণীয়।",
+      "bio_source_urls": [
+        "https://bn.banglapedia.org/index.php?title=%E0%A6%86%E0%A6%AC%E0%A6%A6%E0%A7%81%E0%A6%B2_%E0%A6%B9%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%AE",
+        "https://en.banglapedia.org/index.php?title=Abdul_Hakim"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "জন্ম-মৃত্যুর সাল বাংলা ও ইংরেজি Banglapedia-র নিবন্ধে ১৬২০–১৬৯০ দেওয়া হয়েছে। একই/কাছাকাছি নামের অন্য ব্যক্তিদের সঙ্গে বিভ্রান্তি এড়াতে এখানে ওই নিবন্ধিত মধ্যযুগীয় বাংলা কবিকেই বোঝানো হয়েছে। খোঁজে পাওয়া প্রতিকৃতিসদৃশ ছবি আধুনিক ভিডিও/চিত্রণ, কবির আসল ছবি হিসেবে নির্ভরযোগ্যভাবে শনাক্ত নয়; কোনো নিশ্চিত মুক্ত-লাইসেন্সযুক্ত আসল প্রতিকৃতি মেলেনি, তাই portrait_* ক্ষেত্রগুলো null রাখা হয়েছে.",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "আবিদ আনোয়ার",
+      "biography_bn": "আবিদ আনোয়ার (জন্ম ২৪ জুন ১৯৫০) বাংলাদেশের কবি, প্রাবন্ধিক, গল্পকার ও গীতিকার; তাঁর জন্ম কিশোরগঞ্জের চর আলগী গ্রামে। বাংলা কবিতা ও ছন্দবিষয়ক রচনা—যেমন ‘বাংলা কবিতার আধুনিকায়ন’ ও ‘ছন্দের সহজপাঠ’—তাঁর সাহিত্যিক অবদানের অংশ, এবং কবিতায় অবদানের জন্য তিনি ২০১২ সালে বাংলা একাডেমি সাহিত্য পুরস্কার পান।",
+      "bio_source_urls": [
+        "https://teachers.gov.bd/content/details/654011",
+        "https://www.jagonews24.com/feature/article/772387",
+        "https://samakal.com/editorial-subeditorial/article/66551/%E0%A6%AC%E0%A6%B9%E0%A7%81%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%BF%E0%A6%A6-%E0%A6%86%E0%A6%A8%E0%A7%8B%E0%A7%9F%E0%A6%BE%E0%A6%B0",
+        "https://banglaacademy.gov.bd/pages/static-pages/6922e111933eb65569e29fbc"
+      ],
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/%E0%A6%86%E0%A6%AC%E0%A6%BF%E0%A6%A6_%E0%A6%86%E0%A6%A8%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0.jpg",
+      "photo_source_url": "https://commons.wikimedia.org/wiki/File:%E0%A6%86%E0%A6%AC%E0%A6%BF%E0%A6%A6_%E0%A6%86%E0%A6%A8%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0.jpg",
+      "photo_license": "Creative Commons CC0 1.0 Universal Public Domain Dedication",
+      "photo_attribution": "Salim_Khandoker (ছবির Commons পৃষ্ঠায় স্বত্বাধিকারী/নির্মাতা হিসেবে উল্লিখিত; CC0-তে প্রকাশিত)",
+      "notes_bn": "জন্মসাল, জন্মতারিখ ও সাহিত্যিক পরিচয় একাধিক সূত্রে মেলে; বাংলা একাডেমির সরকারি পুরস্কার পাতায় ২০১২ সালের তালিকায় তাঁর নাম রয়েছে। পরামর্শকৃত নির্ভরযোগ্য সূত্রে মৃত্যুর সাল নিশ্চিত করা যায়নি, তাই তা উল্লেখ করা হয়নি। Commons ফাইলের বিবরণে ছবির পরিচয় ‘আবিদ আনোয়ার’, নির্মাতা Salim_Khandoker এবং CC0 লাইসেন্স দেওয়া আছে; ফলে পুনঃব্যবহারের শর্ত যাচাই করা হয়েছে।",
+      "research_status": "biography_and_photo_sourced"
+    },
+    {
+      "name": "আবু জাফর ওবায়দুল্লাহ",
+      "biography_bn": "আবু জাফর ওবায়দুল্লাহ খান (৮ ফেব্রুয়ারি ১৯৩৪–১৯ মার্চ ২০০১) বাংলাদেশের কবি, সাহিত্যিক ও সরকারি কর্মকর্তা; বরিশালের বাবুগঞ্জে জন্মগ্রহণ করেন এবং ঢাকায় মৃত্যুবরণ করেন। পঞ্চাশের দশকের গুরুত্বপূর্ণ কবি হিসেবে তাঁর কবিতায় ভাষা আন্দোলন, মুক্তিসংগ্রাম ও বাংলার জনজীবন প্রতিফলিত হয়েছে; ‘আমি কিংবদন্তীর কথা বলছি’ তাঁর উল্লেখযোগ্য কাব্যগ্রন্থ, এবং তিনি বাংলা একাডেমি পুরস্কার (১৯৭৯) ও একুশে পদক লাভ করেন।",
+      "bio_source_urls": [
+        "https://bn.banglapedia.org/index.php?title=%E0%A6%93%E0%A6%AC%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%A6%E0%A7%81%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B9,_%E0%A6%86%E0%A6%AC%E0%A7%81_%E0%A6%9C%E0%A6%BE%E0%A6%AB%E0%A6%B0",
+        "https://en.banglapedia.org/index.php/Obaidullah,_Abu_Zafar"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "বাংলাপিডিয়া ও সংবাদমাধ্যমে তাঁর প্রতিকৃতি দেখা গেলেও কোনো নির্দিষ্ট ছবির পুনঃব্যবহারের স্পষ্ট মুক্ত লাইসেন্স/অনুমতি যাচাই করা যায়নি; একই নামের অন্য ব্যক্তির ছবি ভুলভাবে ব্যবহারের ঝুঁকিও আছে। তাই প্রতিকৃতিসংক্রান্ত সব ক্ষেত্র null রাখা হয়েছে।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "আবুল হাসান",
+      "biography_bn": "আবুল হাসান (জন্মনাম আবুল হোসেন মিয়া; ৪ আগস্ট ১৯৪৭–২৬ নভেম্বর ১৯৭৫) ছিলেন বাংলাদেশের ষাটের দশকের অন্যতম কবি ও সাংবাদিক। তাঁর রোমান্টিক, বিষণ্ন ও আত্মমননশীল কবিতা বাংলা সাহিত্যে গুরুত্বপূর্ণ স্থান অধিকার করে; তিনি কবিতার জন্য ১৯৭৫ সালে বাংলা একাডেমি পুরস্কারও পান।",
+      "bio_source_urls": [
+        "https://www.litencyc.com/php/speople.php?rec=true&UID=14558",
+        "https://www.newagebd.net/article/219085/oitijjhya-pays-tribute-to-poet-abul-hasan"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "জীবনী ও প্রতিকৃতির উৎস পৃথক URL-এ দেওয়া আছে। ছবির লাইসেন্স ও কৃতিত্বের শর্ত photo_license এবং photo_attribution-এ দেখুন।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "আব্দুল্লাহ আবু সায়ীদ",
+      "biography_bn": "আব্দুল্লাহ আবু সায়ীদ বাংলাদেশের কবি, লেখক, শিক্ষাবিদ ও সংগঠক; রামোন ম্যাগসেসে অ্যাওয়ার্ড ফাউন্ডেশন ও *The Daily Star* তাঁর জন্ম ১৯৩৯ সালে কলকাতায় বলে উল্লেখ করেছে। ষাটের দশকে তিনি ‘কণ্ঠস্বর’ পত্রিকার সম্পাদক হিসেবে সাহিত্য আন্দোলনে নেতৃত্ব দেন, কবিতা ও গদ্য লেখেন এবং ১৯৭৮ সালে বিশ্বসাহিত্য কেন্দ্র প্রতিষ্ঠা করেন—যা পাঠাভ্যাস ও সাহিত্যচর্চা প্রসারে তাঁর উল্লেখযোগ্য অবদান।",
+      "bio_source_urls": [
+        "https://rmaward.asia/rmawardees/sayeed-abdullah-abu/",
+        "https://www.thedailystar.net/supplements/star-lifetime-awardees-2016/prof-abdullah-abu-sayeed-212860",
+        "https://www.bskbd.org/founder",
+        "https://alorpathshala.org/author/11/%E0%A6%86%E0%A6%AC%E0%A6%A6%E0%A7%81%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B9%20%E0%A6%86%E0%A6%AC%E0%A7%81%20%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A7%80%E0%A6%A6"
+      ],
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Abdullah_Abu_Sayeed.jpg",
+      "photo_source_url": "https://commons.wikimedia.org/wiki/File:Abdullah_Abu_Sayeed.jpg",
+      "photo_license": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+      "photo_attribution": "Hasan Muhammed Zahidul Amin / Partha Sarathi Bhow; Wikimedia Commons-এর বর্ণনা অনুযায়ী, ছবিটি ২০০৫ সালে SUST ক্যাম্পাসে আব্দুল্লাহ আবু সায়ীদের প্রতিকৃতি। পুনঃব্যবহারে যথাযথ কৃতিত্ব, লাইসেন্সের লিংক ও পরিবর্তনের তথ্য দিতে হবে; অভিযোজিত কাজ একই বা সামঞ্জস্যপূর্ণ লাইসেন্সে প্রকাশ করতে হবে।",
+      "notes_bn": "জন্মসাল সূত্রে অমিল: রামোন ম্যাগসেসে অ্যাওয়ার্ড ফাউন্ডেশন, The Daily Star এবং আলোর পাঠশালা ১৯৩৯ বলেছে; বিশ্বসাহিত্য কেন্দ্রের প্রতিষ্ঠাতা-পরিচিতি ২৫ জুলাই ১৯৪০ উল্লেখ করে। তাই একাধিক স্বাধীন সূত্রে সমর্থিত ১৯৩৯ ব্যবহার করা হয়েছে এবং অমিলটি জানানো হলো। প্রদত্ত সূত্রগুলোতে মৃত্যু সাল পাওয়া যায়নি; তাঁকে একই নামের অন্য ব্যক্তির সঙ্গে না মেলাতে সাহিত্য, ‘কণ্ঠস্বর’ ও বিশ্বসাহিত্য কেন্দ্রের পরিচয় একত্রে যাচাই করা হয়েছে।",
+      "research_status": "biography_and_photo_sourced"
+    },
+    {
+      "name": "আরণ্যক বসু",
+      "biography_bn": "আরণ্যক বসু কলকাতায় জন্মানো বাংলা কবি ও নাট্যকার; প্রকাশকের লেখক-পরিচিতিতে তাঁকে বাচিকশিল্পী ও অভিনেতা হিসেবেও পরিচয় করানো হয়েছে এবং বলা হয়েছে যে তিনি শৌভিক নাট্যদলের সঙ্গে গ্রুপ-থিয়েটারে যুক্ত ছিলেন। তাঁর লেখালেখির মধ্যে কবিতা, নাটক, উপন্যাস, সংবাদপত্রের সাপ্তাহিক কলাম ও ভ্রমণলেখা রয়েছে; পর্যালোচিত জীবনীসূত্রে তাঁর জন্মসাল বা মৃত্যুসাল উল্লেখ নেই।",
+      "bio_source_urls": [
+        "https://anindyaprokash.com/product-category/authors/aronnok-bosu",
+        "https://banglakobita.net/author/aranyakbasu",
+        "https://boitoi.in/products/bhasajononir-kanna-aranyak-basu"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "আরণ্যক বসু নামে এই কলকাতার সমসাময়িক কবিকে একই/কাছাকাছি নামের অন্য ব্যক্তিদের সঙ্গে গুলিয়ে ফেলার মতো নির্ভরযোগ্য তথ্য পাওয়া যায়নি। প্রকাশকের জীবনীতে জন্মস্থান কলকাতা বলা হলেও জন্মসাল বা মৃত্যুসাল নেই। তাঁর ছবি-সম্বলিত কিছু অনলাইন ভিডিও/থাম্বনেইল পাওয়া গেলেও প্রত্যক্ষ প্রতিকৃতির পরিচয় ও পুনঃব্যবহারের অনুমতি/লাইসেন্স নির্ভরযোগ্যভাবে যাচাই করা যায়নি; তাই portrait_* ক্ষেত্র null রাখা হয়েছে।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "আল মাহমুদ",
+      "biography_bn": "মীর আবদুস শুকুর আল মাহমুদ (আল মাহমুদ) ছিলেন বাংলাদেশের প্রথিতযশা কবি, কথাসাহিত্যিক ও সাংবাদিক; তিনি ১৯৩৬ সালের ১১ জুলাই ব্রাহ্মণবাড়িয়ার মোড়াইল গ্রামে জন্মগ্রহণ করেন এবং ২০১৯ সালের ১৫ ফেব্রুয়ারি ঢাকায় মৃত্যুবরণ করেন। আধুনিক বাংলা কবিতায় ভাটি বাংলার গ্রামীণ জীবন, নদীনির্ভর জনপদ ও লোকজ ভাষাকে বিশেষভাবে তুলে ধরেন; তাঁর উল্লেখযোগ্য কাব্যগ্রন্থের মধ্যে ‘লোক লোকান্তর’ ও ‘সোনালী কাবিন’ রয়েছে।",
+      "bio_source_urls": [
+        "https://bn.banglapedia.org/index.php?title=%E0%A6%AE%E0%A6%BE%E0%A6%B9%E0%A6%AE%E0%A7%81%E0%A6%A6,_%E0%A6%86%E0%A6%B2",
+        "https://en.prothomalo.com/bangladesh/Poet-Al-Mahmud-passes-away",
+        "https://www.bbc.com/bengali/news-38298861"
+      ],
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Al_Mahmud.jpg",
+      "photo_source_url": "https://commons.wikimedia.org/wiki/File:Al_Mahmud.jpg",
+      "photo_license": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0); file page also lists GNU Free Documentation License (GFDL).",
+      "photo_attribution": "Hassan Bipul, Wikimedia Commons; ‘Poet Al Mahmud photographed at his Gulshan residence’ (July 2007). ছবিটি পরিবর্তন না করে ব্যবহার করলে যথাযথ কৃতিত্ব, লাইসেন্সের লিংক ও পরিবর্তন-সংক্রান্ত তথ্য দিতে হবে; অভিযোজিত হলে CC BY-SA শর্ত মানতে হবে।",
+      "notes_bn": "জীবনী ও জন্ম-মৃত্যুর তারিখ Banglapedia এবং Prothom Alo-র সূত্রে যাচাই করা হয়েছে। Commons ফাইল পাতায় ছবিটিকে কবি আল মাহমুদের প্রতিকৃতি হিসেবে বর্ণনা করা হয়েছে, আলোকচিত্রী Hassan Bipul এবং পুনঃব্যবহারের লাইসেন্স CC BY-SA 3.0 (এছাড়াও GFDL) দেওয়া আছে।",
+      "research_status": "biography_and_photo_sourced"
+    },
+    {
+      "name": "আলাউদ্দিন আল আজাদ",
+      "biography_bn": "আলাউদ্দিন আল আজাদ (৬ মে ১৯৩২–৩ জুলাই ২০০৯) ছিলেন বাংলাদেশের কবি, কথাসাহিত্যিক, প্রাবন্ধিক, নাট্যকার, সাহিত্যসমালোচক ও শিক্ষাবিদ; তিনি নরসিংদীর রায়পুরার রামনগরে জন্মগ্রহণ করেন। ভাষা আন্দোলন-প্রেরিত প্রগতিশীল ও মানবতাবাদী ধারায় তাঁর সাহিত্যকর্ম বিস্তৃত—কবিতা, উপন্যাস ও ছোটগল্পের পাশাপাশি ভাষাশহীদদের স্মরণে রচিত ‘স্মৃতিস্তম্ভ’ তাঁর উল্লেখযোগ্য কবিতা।",
+      "bio_source_urls": [
+        "https://en.banglapedia.org/index.php/Azad,_Alauddin_Al",
+        "https://www.newagebd.net/article/110056/remembering-alauddin-al-azad",
+        "https://commons.wikimedia.org/wiki/File:Alauddin_Al_Azad.jpg"
+      ],
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Alauddin_Al_Azad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photo_source_url": "https://commons.wikimedia.org/wiki/File:Alauddin_Al_Azad.jpg",
+      "photo_license": "Creative Commons Attribution 2.5 Generic (CC BY 2.5); Commons file page also lists GFDL 1.2+ and CC BY-SA 3.0 Unported options.",
+      "photo_attribution": "Prof. Rafiqul Islam; Wikimedia Commons file description identifies the portrait as Alauddin Al-Azad and says it is derived from ‘Infront of Kola Bhaban 21 Feb 1954.png’. Credit the author, link the license, and indicate changes if made.",
+      "notes_bn": "জীবনী ও জন্ম-মৃত্যুর সাল Banglapedia-র Alauddin Al Azad-নির্দিষ্ট নিবন্ধে যাচাই করা হয়েছে; New Age-ও তারিখ ও সাহিত্যপরিচয় সমর্থন করে। Commons ফাইলপৃষ্ঠায় ছবির ব্যক্তিকে আলাউদ্দিন আল আজাদ হিসেবে শনাক্ত করা হয়েছে এবং CC BY 2.5-সহ পুনঃব্যবহারের লাইসেন্স দেওয়া আছে; একই নামে অন্য ব্যক্তির সঙ্গে গুলিয়ে ফেলার ভিত্তি নেই।",
+      "research_status": "biography_and_photo_sourced"
+    },
+    {
+      "name": "আসাদ চৌধুরী",
+      "biography_bn": "আসাদ চৌধুরী (১৯৪৩–২০২৩) ছিলেন বাংলাদেশের কবি, লেখক ও সাংস্কৃতিক ব্যক্তিত্ব; তিনি বরিশালের মেহেন্দিগঞ্জে জন্মগ্রহণ করেন এবং ১৯৮৭ সালে বাংলা একাডেমি পুরস্কার ও ২০১৩ সালে একুশে পদক পান। ১৯৭৫ সালে তাঁর প্রথম কাব্যগ্রন্থ ‘তবক দেওয়া পান’ প্রকাশিত হয়; কবিতার পাশাপাশি তিনি শিশুসাহিত্য, প্রবন্ধ ও জীবনীও রচনা করেন।",
+      "bio_source_urls": [
+        "https://www.bssnews.net/bangla/news-flash/108944",
+        "https://www.thedailystar.net/news/bangladesh/obituary/news/poet-asad-chowdhury-no-more-3435826"
+      ],
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Asad_Chowdhury_2010.jpg",
+      "photo_source_url": "https://commons.wikimedia.org/wiki/File:Asad_Chowdhury_2010.jpg",
+      "photo_license": "Creative Commons Attribution-Share Alike 3.0 Unported (CC BY-SA 3.0)",
+      "photo_attribution": "Faizul Latif Chowdhury (নিজস্ব কাজ), Wikimedia Commons; CC BY-SA 3.0 লাইসেন্স অনুযায়ী কৃতিত্ব দিতে হবে এবং অভিযোজিত হলে একই বা সামঞ্জস্যপূর্ণ লাইসেন্সে ভাগ করতে হবে।",
+      "notes_bn": "জীবনীটি বাংলাদেশ সংবাদ সংস্থার (বাসস) তথ্য এবং The Daily Star-এর স্মরণলেখার সঙ্গে মিলিয়ে লেখা হয়েছে; জন্ম ও মৃত্যু-সাল উল্লেখ করা হয়েছে। প্রতিকৃতির কমন্স পৃষ্ঠায় ছবিটিকে বাংলাদেশের কবি আসাদ চৌধুরীর ছবি হিসেবে শনাক্ত করে আলোকচিত্রী ও CC BY-SA 3.0 লাইসেন্স স্পষ্টভাবে দেওয়া আছে।",
+      "research_status": "biography_and_photo_sourced"
+    },
+    {
+      "name": "আহসান হাবীব",
+      "biography_bn": "আহসান হাবীব (২ ফেব্রুয়ারি ১৯১৭–১০ জুলাই ১৯৮৫) ছিলেন বাংলাদেশের কবি ও সাংবাদিক; তিনি দৈনিক বাংলার সাহিত্য সম্পাদক হিসেবে কাজ করেন। চল্লিশের দশকের অন্যতম প্রধান আধুনিক কবি হিসেবে তাঁর কবিতায় সমকালীন সামাজিক বাস্তবতা ও মধ্যবিত্ত জীবনের অভিজ্ঞতা প্রতিফলিত হয়েছে; তাঁর উল্লেখযোগ্য কাব্যগ্রন্থের মধ্যে রয়েছে ‘রাত্রিশেষ’, ‘ছায়াহরিণ’ ও ‘আশায় বসতি’।",
+      "bio_source_urls": [
+        "https://en.banglapedia.org/index.php/Habib,_Ahsan",
+        "https://www.kaliokalam.com/%E0%A6%95%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%86%E0%A6%B9%E0%A6%B8%E0%A6%BE%E0%A6%A8-%E0%A6%B9%E0%A6%BE%E0%A6%AC%E0%A7%80/"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "Banglapedia-তে জন্মতারিখ ২ ফেব্রুয়ারি ১৯১৭; কিছু গৌণ অনলাইন লেখায় ২ জানুয়ারি দেখা যায়, তাই এখানে প্রাতিষ্ঠানিক সূত্রের তারিখ নেওয়া হয়েছে। একটি আসল প্রতিকৃতির ফাইল পৃষ্ঠা (https://en.wikipedia.org/wiki/File:Ahsan_Habib_(poet).jpg) ছবিটিকে কপিরাইটযুক্ত/সম্ভাব্য নন-ফ্রি বলে চিহ্নিত করে এবং Wikipedia-বহির্ভূত ব্যবহারে অধিকার লঙ্ঘনের ঝুঁকি উল্লেখ করে; ফলে যাচাইযোগ্য পুনঃব্যবহারের লাইসেন্স না থাকায় portrait ক্ষেত্রগুলো null রাখা হয়েছে। একই নামে Commons-এ পাওয়া ছবিগুলো অন্য আহসান হাবীব—কার্টুনিস্ট—সম্পর্কিত, তাই সেগুলো ব্যবহার করা হয়নি।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "ইমরান কামাল",
+      "biography_bn": "ইমরান কামাল খুলনা বিশ্ববিদ্যালয়ের বাংলা ডিসিপ্লিনের সহযোগী অধ্যাপক এবং সমকালীন বাংলা কবি; তাঁর স্বনামে কবিতা প্রকাশিত হয়েছে। কবিতার পাশাপাশি তিনি মাহমুদ দারবিশের কবিতা বাংলায় অনুবাদ করেছেন এবং কায়কোবাদের সাহিত্য নিয়ে প্রবন্ধ উপস্থাপন করেছেন। নির্ভরযোগ্য জীবনীমূলক বা প্রাতিষ্ঠানিক সূত্রে তাঁর জন্ম-মৃত্যুর সাল নিশ্চিত করা যায়নি।",
+      "bio_source_urls": [
+        "https://ku.ac.bd/discipline/ban/faculty/kamalimran7",
+        "https://bangla.deadmetaphor.net/%E0%A6%87%E0%A6%AE%E0%A6%B0%E0%A6%BE%E0%A6%A8-%E0%A6%95%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%BE/",
+        "https://shahojia.com/2021/05/20/%E0%A6%AE%E0%A6%BE%E0%A6%B9%E0%A6%AE%E0%A7%81%E0%A6%A6-%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%BE/",
+        "https://www.bssnews.net/bangla/national/180569"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "একই/কাছাকাছি নামের ব্যক্তির সঙ্গে গুলিয়ে না ফেলতে খুলনা বিশ্ববিদ্যালয়ের বাংলা ডিসিপ্লিনের অফিসিয়াল সহযোগী অধ্যাপক প্রোফাইলকে কবিতা ও অনুবাদের লেখক-নামের সঙ্গে মিলিয়ে দেখা হয়েছে। নির্ভরযোগ্য সূত্রে জন্ম-মৃত্যুর সাল মেলেনি। ইমরান কামালের পরিচয় নিশ্চিত করে এবং পুনঃব্যবহারের লাইসেন্স বা অনুমতি জানায়—এমন সরাসরি প্রতিকৃতি-URL পাওয়া যায়নি; তাই portrait_* ঘরগুলো null রাখা হয়েছে।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "ইসমাইল হোসেন সিরাজী",
+      "biography_bn": "ইসমাইল হোসেন সিরাজী (১৮৮০–১৯৩১) ছিলেন বাংলা ভাষার কবি-লেখক, বক্তা ও কৃষকনেতা; সিরাজগঞ্জের এই সাহিত্যিক মুসলিম সমাজের জাগরণ, আধুনিক শিক্ষার প্রসার এবং কৃষকের অধিকার নিয়ে লিখেছেন ও কাজ করেছেন। তাঁর কাব্যগ্রন্থের মধ্যে *অনল-প্রবাহ* (১৯০০), *আকাঙ্ক্ষা* (১৯০৬) ও *স্পেন বিজয় কাব্য* (১৯১৪), এবং উপন্যাসের মধ্যে *রায় নন্দিনী* (১৯১৫) উল্লেখযোগ্য।",
+      "bio_source_urls": [
+        "https://en.banglapedia.org/index.php/Shiraji,_Ismail_Hossain",
+        "https://www.thedailystar.net/literature/news/syed-ismail-hossain-siraji-tribute-1634035"
+      ],
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Ismail_hossian_siraji.jpg",
+      "photo_source_url": "https://commons.wikimedia.org/wiki/File:Ismail_hossian_siraji.jpg",
+      "photo_license": "Public domain (Wikimedia Commons পৃষ্ঠায় PD India ও PD-Bangladesh হিসেবে চিহ্নিত)।",
+      "photo_attribution": "Wikimedia Commons metadata অনুসারে attribution আবশ্যক নয়।",
+      "notes_bn": "Banglapedia ও The Daily Star-এ জন্ম-মৃত্যুর সাল ১৮৮০–১৯৩১ সমর্থিত; নির্ভরযোগ্য সূত্রে নির্দিষ্ট দিন-তারিখ পাইনি, তাই শুধু সাল দেওয়া হয়েছে। Commons ফাইল-পৃষ্ঠায় ছবিটি সিরাজীর প্রতিকৃতি হিসেবে পরিচিত এবং Public domain চিহ্নিত, তবে সেখানে মূল ছবির উৎস ও আলোকচিত্রীর নাম দেওয়া নেই।",
+      "research_status": "biography_and_photo_sourced"
+    },
+    {
+      "name": "ঈশ্বরচন্দ্র গুপ্ত",
+      "biography_bn": "ঈশ্বরচন্দ্র গুপ্ত (১৮১২–১৮৫৯) ছিলেন উনিশ শতকের বাঙালি কবি ও সাংবাদিক; তিনি ‘সংবাদ প্রভাকর’ পত্রিকার প্রতিষ্ঠাতা-সম্পাদক ছিলেন। বাংলা সাহিত্যের যুগসন্ধিক্ষণের কবি হিসেবে পরিচিত গুপ্ত সমকালীন ঘটনা ও সমাজজীবন নিয়ে ব্যঙ্গাত্মক খণ্ডকবিতা লিখে এবং বাংলা কবিতাকে আধুনিকতার পথে এগিয়ে নিতে অবদান রাখেন।",
+      "bio_source_urls": [
+        "https://en.banglapedia.org/index.php?title=Gupta,_Ishwar_Chandra"
+      ],
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/IshwarChandraGupta.jpg",
+      "photo_source_url": "https://commons.wikimedia.org/wiki/File:IshwarChandraGupta.jpg",
+      "photo_license": "Public domain in Bangladesh (PD-Bangladesh; Commons page also requires a U.S. public-domain tag).",
+      "photo_attribution": "Wikimedia Commons file page lists Banglapedia as the source; original creator/artist is not specified there.",
+      "notes_bn": "জীবনীতে জন্ম-মৃত্যুর বছর বাংলাপিডিয়ার নির্ভরযোগ্য নিবন্ধ অনুসারে দেওয়া হয়েছে; জন্মের নির্দিষ্ট দিনটি সেখানে নেই বলে উল্লেখ করা হয়নি। প্রতিকৃতির ফাইল-পৃষ্ঠায় ছবির উৎস Banglapedia এবং বাংলাদেশে কপিরাইট-মেয়াদোত্তীর্ণের ভিত্তিতে পাবলিক ডোমেইন বলা হয়েছে; তবে পৃষ্ঠাটি সতর্ক করে যে কিছু দেশে, বিশেষত স্বল্পতর মেয়াদের নিয়ম প্রযোজ্য নয় এমন স্থানে, একই অবস্থা নাও হতে পারে।",
+      "research_status": "biography_and_photo_sourced"
+    },
+    {
+      "name": "উৎপল কুমার বসু",
+      "biography_bn": "উৎপলকুমার বসু (৩ আগস্ট ১৯৩৯–৩ অক্টোবর ২০১৫) ছিলেন বাংলা ভাষার কবি; তিনি কৃত্তিবাস গোষ্ঠীর সঙ্গে যুক্ত ছিলেন এবং পরে হাংরি আন্দোলনে অংশ নেন। তাঁর কবিতার স্বতন্ত্র ভাষা ও রচনাশৈলীর স্বীকৃতিস্বরূপ ২০১৪ সালে তিনি বাংলা ভাষায় সাহিত্য অকাদেমি পুরস্কার পান।",
+      "bio_source_urls": [
+        "https://www.jagonews24.com/feature/article/874024",
+        "https://sahitya-akademi.gov.in/pdf/sahityaakademiawards2014-e.pdf",
+        "https://banglalive.com/remembering-utpal-kumar-basu-on-his-birthday/",
+        "https://www.channelionline.com/%E0%A6%9A%E0%A6%B2%E0%A7%87-%E0%A6%97%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%B9%E0%A6%BE%E0%A6%82%E0%A6%B0%E0%A6%BF-%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B6%E0%A6%A8/"
+      ],
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Abhijit_Bera_with_poet_Utpal_Kumar_Basu.jpg",
+      "photo_source_url": "https://commons.wikimedia.org/wiki/File:Abhijit_Bera_with_poet_Utpal_Kumar_Basu.jpg",
+      "photo_license": "Creative Commons Attribution-Share Alike 4.0 International (CC BY-SA 4.0); https://creativecommons.org/licenses/by-sa/4.0/",
+      "photo_attribution": "Anyo Bartika, Wikimedia Commons; ‘Abhijit Bera with poet Utpal Kumar Basu’ (ছবিতে আরও একজন ব্যক্তি আছেন)।",
+      "notes_bn": "জন্মসাল নিয়ে সূত্রে অমিল আছে: জাগো নিউজ ১৯৩৯ উল্লেখ করেছে, কিন্তু চ্যানেল আইয়ের সমসাময়িক মৃত্যুসংবাদে ১৯৩৭ লেখা; তাই এখানে ১৯৩৯-কে বেছে নেওয়া হয়েছে, তবে এটিকে সূত্রভিত্তিক অমিল হিসেবে বিবেচনা করতে হবে। Commons-এর ফাইল বর্ণনা ছবির ব্যক্তিকে উৎপল কুমার বসু হিসেবে শনাক্ত করে এবং CC BY-SA 4.0 লাইসেন্স দেখায়; এটি দুজনের মঞ্চ-আলোচনার ছবি, একক প্রতিকৃতি নয়।",
+      "research_status": "biography_and_photo_sourced"
+    },
+    {
+      "name": "কাজী কাদের নেওয়াজ",
+      "biography_bn": "কাজী কাদের নেওয়াজ (১৫ জানুয়ারি ১৯০৯–৩ জানুয়ারি ১৯৮৩) ছিলেন কবি ও শিক্ষাবিদ; তিনি মুর্শিদাবাদের তালেবপুরে জন্মগ্রহণ করেন এবং পরে বাংলাদেশের শিক্ষা ও সাহিত্যজগতে কাজ করেন। ছন্দময় কবিতা ও নীতিকথামূলক শিশুসাহিত্যে তাঁর বিশেষ পরিচিতি; ‘মরাল’, ‘দাদুর বৈঠক’ ও ‘নীল কুমুদী’ তাঁর উল্লেখযোগ্য গ্রন্থ, এবং শিশুসাহিত্যে বাংলা একাডেমি পুরস্কার পান ১৯৬৩ সালে।",
+      "bio_source_urls": [
+        "https://bn.banglapedia.org/index.php?title=%E0%A6%A8%E0%A7%87%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%9C,_%E0%A6%95%E0%A6%BE%E0%A6%9C%E0%A7%80_%E0%A6%95%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0",
+        "https://www.teachers.gov.bd/blog/details/768883"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "জন্ম-মৃত্যুর তারিখ, সাহিত্যিক পরিচয় ও পুরস্কারের তথ্য Banglapedia-র জীবনীতে সমর্থিত; সরকারি শিক্ষক বাতায়নের লেখাও পরিচয় ও জন্মসাল সমর্থন করে। অনুসন্ধানে তাঁর বলে নির্ভরযোগ্যভাবে শনাক্ত এবং পুনঃব্যবহারের লাইসেন্স/শর্ত যাচাইযোগ্য এমন কোনো সরাসরি প্রতিকৃতি-ছবি পাইনি; তাই প্রতিকৃতির ক্ষেত্রগুলো null রাখা হয়েছে।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "কাজী নজরুল ইসলাম",
+      "biography_bn": "কাজী নজরুল ইসলাম (২৪ মে ১৮৯৯–২৯ আগস্ট ১৯৭৬) ছিলেন বাংলা সাহিত্যের কবি, লেখক ও সংগীতস্রষ্টা; ‘বিদ্রোহী কবি’ নামে পরিচিত এবং বাংলাদেশের জাতীয় কবি। কবিতা, গান, গল্প, উপন্যাস, প্রবন্ধ ও নাটকে তাঁর অবদান রয়েছে; তাঁর রচনায় ঔপনিবেশিক শাসনবিরোধিতা, সাম্য ও সামাজিক ন্যায়ের ভাবনা এবং বাংলা সংগীতে নানা ধারার সংমিশ্রণ বিশেষভাবে উল্লেখযোগ্য।",
+      "bio_source_urls": [
+        "https://en.banglapedia.org/index.php/Islam,_Kazi_Nazrul",
+        "https://www.britannica.com/biography/Kazi-Nazrul-Islam"
+      ],
+      "photo_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kazi_nazrul_islam_with_Setar.jpg",
+      "photo_source_url": "https://commons.wikimedia.org/wiki/File:Kazi_nazrul_islam_with_Setar.jpg",
+      "photo_license": "Wikimedia Commons-এর ফাইল-তথ্য অনুযায়ী বাংলাদেশে প্রথম প্রকাশিত এই ছবিটি বাংলাদেশি কপিরাইট আইনে মেয়াদোত্তীর্ণ হওয়ায় বাংলাদেশে Public Domain।",
+      "photo_attribution": "অজ্ঞাত আলোকচিত্রী; Commons ফাইল পাতায় উৎস হিসেবে Nazrul Academy উল্লেখিত।",
+      "notes_bn": "জীবনী ও প্রতিকৃতির উৎস পৃথক URL-এ দেওয়া আছে। ছবির লাইসেন্স ও কৃতিত্বের শর্ত photo_license এবং photo_attribution-এ দেখুন।",
+      "research_status": "biography_and_photo_sourced"
+    },
+    {
+      "name": "কামিনী রায়",
+      "biography_bn": "কামিনী রায় (১২ অক্টোবর ১৮৬৪–২৭ সেপ্টেম্বর ১৯৩৩) ছিলেন বাংলা কবি ও সমাজকর্মী; তিনি বাসন্ডা গ্রামে জন্মগ্রহণ করেন এবং বেথুন কলেজে সংস্কৃতে অনার্সসহ বিএ পাস করে সেখানেই শিক্ষকতা করেন। তাঁর প্রথম কাব্যগ্রন্থ ‘আলো ও ছায়া’ ১৮৮৯ সালে প্রকাশিত হয়; কবিতার পাশাপাশি তিনি নারীকল্যাণমূলক কর্মকাণ্ডে যুক্ত ছিলেন এবং বাংলা সাহিত্যে অবদানের স্বীকৃতিস্বরূপ ১৯২৯ সালে কলকাতা বিশ্ববিদ্যালয়ের জগত্তারিণী পদক পান।",
+      "bio_source_urls": [
+        "https://bn.banglapedia.org/index.php?title=%E0%A6%B0%E0%A6%BE%E0%A6%AF%E0%A6%BC,_%E0%A6%95%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A7%80",
+        "https://en.banglapedia.org/index.php/Roy,_Kamini",
+        "https://poets.org/poet/kamini-roy"
+      ],
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Kamini_Roy.jpg",
+      "photo_source_url": "https://commons.wikimedia.org/wiki/File:Kamini_Roy.jpg",
+      "photo_license": "Public domain (Wikimedia Commons-এ ভারত ও বাংলাদেশের কপিরাইট-মেয়াদোত্তীর্ণ এবং যুক্তরাষ্ট্রের পাবলিক-ডোমেইন ট্যাগ রয়েছে)।",
+      "photo_attribution": "Wikimedia Commons-এর File:Kamini Roy.jpg; আলোকচিত্রীর নাম দেওয়া নেই।",
+      "notes_bn": "জীবনী ও জন্ম-মৃত্যুর সুনির্দিষ্ট তারিখ বাংলাপিডিয়া এবং Academy of American Poets-এ সমর্থিত। Commons ছবির পৃষ্ঠা প্রতিকৃতিকে কামিনী রায় হিসেবে শনাক্ত করে এবং পাবলিক-ডোমেইন দাবি/ট্যাগ দেয়; তবে পৃষ্ঠায় মূল আলোকচিত্রী বা প্রথম প্রকাশনার তথ্য নেই, তাই সে সীমাবদ্ধতা attribution-এ উল্লেখ করা হয়েছে।",
+      "research_status": "biography_and_photo_sourced"
+    },
+    {
+      "name": "কায়কোবাদ",
+      "biography_bn": "কায়কোবাদ (প্রকৃত নাম মোহাম্মদ কাজেম আলী কুরেশি; ১৮৫৭–২১ জুলাই ১৯৫১) ছিলেন বাংলা সাহিত্যের কবি ও লেখক, বিশেষত মহাকাব্যধর্মী রচনার জন্য পরিচিত। তাঁর শ্রেষ্ঠ কাব্য হিসেবে বিবেচিত ‘মহাশ্মশান’ (১৯০৪) তৃতীয় পানিপথের যুদ্ধভিত্তিক; ‘বিরহবিলাপ’, ‘কুসুমকানন’ ও ‘অশ্রুমালা’ তাঁর অন্যান্য উল্লেখযোগ্য রচনা।",
+      "bio_source_urls": [
+        "https://en.banglapedia.org/index.php/Kaikobad"
+      ],
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Kaykobad_1932.jpg",
+      "photo_source_url": "https://commons.wikimedia.org/wiki/File:Kaykobad_1932.jpg",
+      "photo_license": "Public domain—Wikimedia Commons ফাইল-পৃষ্ঠায় অজ্ঞাতনামা লেখকের ১৯৩২ সালের ছবি হিসেবে বর্ণিত; পৃষ্ঠায় পাবলিক ডোমেইন দাবি আছে।",
+      "photo_attribution": "অজ্ঞাত আলোকচিত্রী; ১৯৩০-এর দশকে প্রকাশিত একটি বই থেকে স্ক্যান।",
+      "notes_bn": "Banglapedia কায়কোবাদের জন্মসাল ১৮৫৭ উল্লেখ করে, তবে জন্মের নির্দিষ্ট দিন-তারিখ দেয় না; তাই শুধু সাল ব্যবহার করা হয়েছে। প্রতিকৃতির পরিচয় ও লাইসেন্স-তথ্য Commons ফাইল-পৃষ্ঠার বর্ণনার ওপর ভিত্তি করে যাচাই করা হয়েছে।",
+      "research_status": "biography_and_photo_sourced"
+    },
+    {
+      "name": "কালীপ্রসন্ন ঘোষ",
+      "biography_bn": "কালীপ্রসন্ন ঘোষ (১৮৪৩–১৯১০), রায়বাহাদুর নামে পরিচিত, ছিলেন বাঙালি সাহিত্যিক, প্রাবন্ধিক, সাংবাদিক ও বাগ্মী; তিনি ‘শুভসাধিনী’ ও ‘বান্ধব’ পত্রিকা সম্পাদনা করেন। দর্শন ও সমাজবিষয়ক রচনার পাশাপাশি তাঁর উল্লেখযোগ্য গ্রন্থের মধ্যে রয়েছে ‘প্রভাত-চিন্তা’, ‘নিভৃত-চিন্তা’ ও ‘ভ্রান্তিবিনোদ’; তাঁর আধ্যাত্মিক গান ‘সঙ্গীতমঞ্জরী’তে সংকলিত হয়।",
+      "bio_source_urls": [
+        "https://en.banglapedia.org/index.php/Ghosh,_Rai_Bahadur_Kaliprosanna",
+        "https://www.teachers.gov.bd/blog/details/731794"
+      ],
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Kali_Prasanna_Ghosh.jpg",
+      "photo_source_url": "https://commons.wikimedia.org/wiki/File:Kali_Prasanna_Ghosh.jpg",
+      "photo_license": "Public domain; Commons-এ যান্ত্রিক স্ক্যান/ফটোকপি হিসেবে PD-scan চিহ্নিত, মূল রচনা পাবলিক ডোমেইন।",
+      "photo_attribution": "শ্রীকান্ত রায়, Bengal Celebrities (City Book Society, 1906); Internet Archive identifier GIPE000995-এর স্ক্যান, Wikimedia Commons-এর মাধ্যমে।",
+      "notes_bn": "এটি রায়বাহাদুর কালীপ্রসন্ন ঘোষ—কালীপ্রসন্ন সিংহ নন। জন্ম-মৃত্যুর বছর ১৮৪৩–১৯১০ Banglapedia-তে সমর্থিত; মৃত্যুর নির্দিষ্ট দিন নিয়ে Banglapedia-র মূল লেখার সঙ্গে বাংলাদেশ সরকারের শিক্ষক বাতায়নের পৃষ্ঠায় অমিল আছে, তাই শুধু সাল দেওয়া হয়েছে। প্রতিকৃতির পরিচয় ও লাইসেন্স Commons ফাইল-পৃষ্ঠা এবং ১৯০৬ সালের Bengal Celebrities স্ক্যানের তথ্য থেকে যাচাই করা হয়েছে।",
+      "research_status": "biography_and_photo_sourced"
+    },
+    {
+      "name": "কুসুমকুমারী দাশ",
+      "biography_bn": "কুসুমকুমারী দাশ (১৮৭৫–১৯৪৮) ছিলেন বাঙালি কবি ও সমাজকর্মী, এবং কবি জীবনানন্দ দাশের মা। তাঁর কবিতা ‘আদর্শ ছেলে’—‘আমাদের দেশে হবে সেই ছেলে কবে’ পঙ্‌ক্তির জন্য বিশেষভাবে পরিচিত; তিনি ব্রাহ্মসমাজের কর্মকাণ্ডেও যুক্ত ছিলেন।",
+      "bio_source_urls": [
+        "https://www.kaliokalam.com/%E0%A6%95%E0%A6%AC%E0%A6%BF-%E0%A6%95%E0%A7%81%E0%A6%B8%E0%A7%81%E0%A6%AE%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%A6%E0%A6%BE%E0%A6%B6/",
+        "https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A7%81%E0%A6%B8%E0%Aুম%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%80_%E0%A6%A6%E0%A6%BE%E0%A6%B6",
+        "https://bn.banglapedia.org/index.php?title=%E0%A6%A6%E0%A6%BE%E0%A6%B6,_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6"
+      ],
+      "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kusum_kumari_Das_(1875%E2%80%931948).jpg",
+      "photo_source_url": "https://commons.wikimedia.org/wiki/File:Kusum_kumari_Das_(1875%E2%80%931948).jpg",
+      "photo_license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) — https://creativecommons.org/licenses/by-sa/4.0/",
+      "photo_attribution": "Bipudl, via Wikimedia Commons; CC BY-SA 4.0.",
+      "notes_bn": "জীবনী ও প্রতিকৃতির উৎস পৃথক URL-এ দেওয়া আছে। ছবির লাইসেন্স ও কৃতিত্বের শর্ত photo_license এবং photo_attribution-এ দেখুন।",
+      "research_status": "biography_and_photo_sourced"
+    },
+    {
+      "name": "কৃষ্ণা বসু",
+      "biography_bn": "কৃষ্ণা বসু বাংলা কবি; একটি সাহিত্য-গবেষণা নিবন্ধে তাঁকে চন্দননগরে জন্মগ্রহণকারী (১৯৪৭) ও পেশায় অধ্যাপক বলা হয়েছে। তাঁর প্রথম কাব্যগ্রন্থ ‘শব্দের শরীর’ ১৯৭৬ সালে প্রকাশিত হয়; নারীর নিপীড়ন, পিতৃতন্ত্র ও নারীর স্বতন্ত্র সত্তার আকাঙ্ক্ষা তাঁর কবিতার উল্লেখযোগ্য বিষয়।",
+      "bio_source_urls": [
+        "https://tirj.org.in/tirj/article/view/825",
+        "https://parabaas.com/PB56/LEKHA/lekhok.shtml"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "নির্ভরযোগ্যভাবে সমর্থিত মৃত্যুসাল পাইনি, তাই উল্লেখ করিনি। একই নামের রাজনীতিবিদ কৃষ্ণা বসুর সঙ্গে গুলিয়ে না ফেলে এখানে ১৯৪৭-জন্ম কবির তথ্য নেওয়া হয়েছে। সম্ভাব্য প্রতিকৃতির পরিচয়/সরাসরি উৎস এবং পুনঃব্যবহারের লাইসেন্স যাচাই করা যায়নি বলে ছবির সব ক্ষেত্র null রাখা হয়েছে।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "খান মুহাম্মদ মইনুদ্দীন",
+      "biography_bn": "খান মুহাম্মদ মঈনুদ্দীন (৩০ অক্টোবর ১৯০১ – ১৬ ফেব্রুয়ারি ১৯৮১) ছিলেন একজন বাঙালি কবি ও শিশুসাহিত্যিক, যিনি ১৯৫০–৬০-এর দশকে শিশুতোষ রচনা ও ছড়ার জন্য খ্যাতি পান। ‘ঐ দেখা যায় তালগাছ’/‘কানা বগীর ছা’ তাঁর বহুল পরিচিত ছড়া; শিশুতোষ গ্রন্থের পাশাপাশি তিনি কবিতা, গল্প-উপন্যাস এবং কাজী নজরুল ইসলামকে নিয়ে ‘যুগস্রষ্টা নজরুল’ জীবনীগ্রন্থও রচনা করেন।",
+      "bio_source_urls": [
+        "https://bn.banglapedia.org/index.php/%E0%A6%AE%E0%A6%88%E0%A6%A8%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%A8,_%E0%A6%96%E0%A6%BE%E0%A6%A8_%E0%A6%AE%E0%A7%81%E0%A6%B9%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%A6",
+        "https://www.ittefaq.com.bd/530531/%Eশিশুসাহিত্যিক-%Eখান-%Eমুহম্মদ-%Eমঈনুদ্দীন",
+        "https://www.thedailystar.net/news-detail-160740"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "বাংলাপিডিয়ার ‘মঈনুদ্দীন, খান মুহম্মদ’ নিবন্ধের সাল, পেশা ও রচনাসূচি অনুসরণ করা হয়েছে; কাছাকাছি নামের অন্য ব্যক্তির সঙ্গে গুলিয়ে না ফেলতে এই শনাক্তকরণে শিশুসাহিত্যিক/কবি এবং ১৯০১–১৯৮১ সালকে মানদণ্ড ধরা হয়েছে। অনুসন্ধানে তাঁর পরিচয় নিশ্চিত করে এমন সরাসরি ছবি ও তার পুনঃব্যবহারের যাচাইযোগ্য লাইসেন্সসহ কোনো নির্ভরযোগ্য ফাইল-পৃষ্ঠা পাওয়া যায়নি, তাই portrait-সংক্রান্ত ক্ষেত্রগুলো null রাখা হয়েছে।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "গোবিন্দচন্দ্র দাস",
+      "biography_bn": "গোবিন্দচন্দ্র দাস (১৬ জানুয়ারি ১৮৫৫–১ অক্টোবর ১৯১৮) ছিলেন ভাওয়ালের জয়দেবপুরে জন্ম নেওয়া বাঙালি স্বভাবকবি। রবীন্দ্রনাথের সমসাময়িক এই কবি আধুনিক গীতিকবিতার ধারায় অবদান রাখেন; তাঁর কবিতায় প্রেমের পাশাপাশি স্বদেশপ্রেম, পল্লিপ্রকৃতি ও মানবজীবন উঠে এসেছে, এবং ‘মগের মুলুক’ তাঁর উল্লেখযোগ্য ব্যঙ্গকাব্য।",
+      "bio_source_urls": [
+        "http://bn.banglapedia.org/index.php?title=দাস,_গোবিন্দচন্দ্র",
+        "https://www.teachers.gov.bd/blog/details/770766"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "নির্ভরযোগ্য সরাসরি ছবির URL ও পুনঃব্যবহারের লাইসেন্স একসঙ্গে যাচাই করা যায়নি, তাই প্রতিকৃতির ক্ষেত্রগুলো null রাখা হয়েছে। মিলনসাগরে দেশ পত্রিকার ১৯৪০ সালের সংখ্যা থেকে সংগৃহীত বলে চিহ্নিত একটি ছবি আছে, কিন্তু তার ব্যবহারের লাইসেন্স দেওয়া নেই; Commons-এ পাওয়া ‘Govindchandra.jpg’ ফাইলটি এই কবির ছবি নয়, গাহড়বাল রাজা গোবিন্দচন্দ্রের মুদ্রা।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "গোলাম কিবরিয়া পিনু",
+      "biography_bn": "গোলাম কিবরিয়া পিনু বাংলাদেশের কবি, প্রাবন্ধিক, ছড়াকার ও গবেষক; তিনি ৩০ মার্চ ১৯৫৬ সালে গাইবান্ধায় জন্মগ্রহণ করেন। চার দশকেরও বেশি সময় ধরে কবিতা-সহ নানা শাখায় লিখেছেন, এবং বাংলা সাহিত্যের নারী লেখকদের নিয়ে তাঁর গবেষণাগ্রন্থ বাংলা একাডেমি থেকে প্রকাশিত হয়েছে; তিনি জাতীয় কবিতা পরিষদের সাবেক সাধারণ সম্পাদকও।",
+      "bio_source_urls": [
+        "https://anupranon.com/writers/%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BE%E0%A6%AE-%E0%A6%95%E0%A6%BF%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE-%E0%A6%AA%E0%A6%BF%E0%A6%A8%E0%A7%81/",
+        "https://www.jagonews24.com/literature/news/964244",
+        "https://esales.banglaacademy.gov.bd/author/%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BE%E0%A6%AE-%E0%A6%95%E0%A6%BF%E0%A6%ব%E0%A6%B0%E0%A6%bf%E0%A7%9f%E0%A6%BE-%E0%A6%AA%E0%A6%BF%E0%A6%A8%E0%A7%81"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "জাগো নিউজের ২০২৪ সালের সাক্ষাৎকারে কবির পরিচয় ও জন্মতথ্য মেলে; অনুপ্রাণনের লেখক-পরিচিতিতেও জন্মতারিখ, সাহিত্যচর্চা ও গবেষণার তথ্য রয়েছে। বাংলা একাডেমির ক্যাটালগে তাঁর লেখক-পরিচয়/গ্রন্থ নিশ্চিত হয়। নির্ভরযোগ্য উৎসে মৃত্যুসাল পাইনি। অনুসন্ধানে কয়েকটি ছবি মিললেও পরিচয় ও পুনঃব্যবহারের অনুমতিসহ নির্ভরযোগ্য মূল ছবির পৃষ্ঠা যাচাই করা যায়নি; তাই প্রতিকৃতি-ক্ষেত্রগুলো null রাখা হয়েছে.",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "গোলাম মোস্তফা",
+      "biography_bn": "যশোরের (বর্তমান ঝিনাইদহ) শৈলকুপার মনোহরপুরে জন্ম নেওয়া গোলাম মোস্তফা (১৮৯৭–১৯৬৪) ছিলেন বাঙালি কবি ও লেখক, পেশায় শিক্ষক; তিনি গদ্য ও পদ্য—দুই ক্ষেত্রেই লিখেছেন। ‘রক্তরাগ’, ‘সাহারা’, ‘বুলবুলিস্তান’সহ কাব্য, অনুবাদকাব্য এবং ‘বিশ্বনবী’র মতো গদ্যগ্রন্থ তাঁর উল্লেখযোগ্য অবদান; তাঁর কাব্যের সহজ, শিল্পসম্মত প্রকাশভঙ্গি ও ছন্দোলালিত্য বিশেষভাবে উল্লেখিত।",
+      "bio_source_urls": [
+        "https://bn.banglapedia.org/index.php?title=%E0%A6%AE%E0%A7%8B%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%AB%E0%A6%BE,_%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BE%E0%A6%AE"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "জন্ম-মৃত্যুর সাল ও সাহিত্য-পরিচয়ের জন্য বাংলাপিডিয়ার জীবনী অনুসরণ করা হয়েছে; একই নামে অন্য ব্যক্তির সঙ্গে গুলিয়ে না ফেলতে শৈলকুপার মনোহরপুরে জন্মের পরিচয়ও মিলিয়ে নেওয়া হয়েছে। Commons-এ ‘গোলাম মোস্তফা (বাঙালি কবি).jpg’ নামে একটি প্রতিকৃতি পাওয়া গেলেও পাতায় ছবির উৎস বা ছবিতে থাকা ব্যক্তির পরিচয়ের নির্ভরযোগ্য প্রমাণ নেই; কেবল আপলোডকারীর CC BY-SA 4.0 দাবি থাকায় পুনঃব্যবহারের অধিকার নিশ্চিত বলা যায় না। তাই যাচাই-শর্ত পূরণ না হওয়ায় প্রতিকৃতির সব ক্ষেত্র null রাখা হয়েছে।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "চণ্ডীদাস",
+      "biography_bn": "চণ্ডীদাস মধ্যযুগীয় বাংলা বৈষ্ণব পদাবলির সঙ্গে যুক্ত কবি-নাম; ঐ নামে অন্তত চারজনের উল্লেখ থাকায় তাঁদের পরিচয় এক কি না অনিশ্চিত, আর বড়ু চণ্ডীদাসকে ‘শ্রীকৃষ্ণকীর্তন’-এর রচয়িতা হিসেবে চিহ্নিত করা হয়। তাঁর নামে প্রচলিত রাধাকৃষ্ণ ও প্রেমবিষয়ক পদ বাংলা সাহিত্যে প্রভাব ফেলেছে; Britannica তাঁকে ১৫শ শতকে সক্রিয় কবি বলে উল্লেখ করে। বড়ু চণ্ডীদাসের জন্ম-মৃত্যু ১৩৩৯–১৩৯৯ বলে বসন্তরঞ্জন রায় প্রস্তাব করেছিলেন, তবে Banglapedia-র মতে তারিখটি বিতর্কিত এবং অন্য গবেষকেরা আরও আগের কালও প্রস্তাব করেছেন।",
+      "bio_source_urls": [
+        "https://en.banglapedia.org/index.php/Chandidas",
+        "https://www.britannica.com/biography/Chandidas"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "চণ্ডীদাস নামে একাধিক কবির সম্ভাবনা থাকায় এক ব্যক্তির জীবনবৃত্তান্ত ও নির্দিষ্ট কাল নিশ্চিত করে বলা যায় না; ১৩৩৯–১৩৯৯ সাল বড়ু চণ্ডীদাস সম্পর্কে একটি প্রস্তাবিত তারিখ, প্রতিষ্ঠিত নিশ্চিত সাল নয়। Commons-এ খুঁজে পাওয়া চণ্ডীদাস-সম্পর্কিত চিত্রগুলোতে একটি স্মৃতিস্থানের ছবি এবং অন্যটি ‘Chandidas Mal’ নামের আলাদা ব্যক্তির ছবি—কোনোটিই মধ্যযুগীয় কবির যাচাইযোগ্য প্রতিকৃতি নয়। তাই প্রতিকৃতির URL, লাইসেন্স ও attribution দেওয়া হয়নি।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "জয় গোস্বামী",
+      "biography_bn": "জয় গোস্বামী (জন্ম ১৯৫৪) একজন বিশিষ্ট সমকালীন বাঙালি কবি; তিনি বাংলায় লেখেন এবং কবিতার পাশাপাশি উপন্যাস ও সমালোচনামূলক প্রবন্ধও রচনা করেছেন। তাঁর কাব্যে নানা রূপ ও শৈলীর পরীক্ষা লক্ষণীয়; ‘পাগলি তোমার সঙ্গে’ কাব্যগ্রন্থের জন্য তিনি ২০০০ সালে সাহিত্য অকাদেমি পুরস্কার পান।",
+      "bio_source_urls": [
+        "https://iwp.uiowa.edu/writers/2001/joy-goswami",
+        "https://www.poetryinternational.com/en/poets-poems/poets/poet/102-2722_Goswami",
+        "https://www.rem.routledge.com/articles/goswami-joy-1954"
+      ],
+      "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joy_Goswami_-_Kolkata_2014-02-03_8315.JPG",
+      "photo_source_url": "https://commons.wikimedia.org/wiki/File:Joy_Goswami_-_Kolkata_2014-02-03_8315.JPG",
+      "photo_license": "Creative Commons Attribution 3.0 Unported (CC BY 3.0)",
+      "photo_attribution": "Biswarup Ganguly, ‘Joy Goswami - Kolkata 2014-02-03 8315.JPG’ (2014); CC BY 3.0. লাইসেন্স: https://creativecommons.org/licenses/by/3.0/",
+      "notes_bn": "বিশ্ববিদ্যালয় ও সাহিত্য-প্রতিষ্ঠানের সূত্রে জন্মসাল ১৯৫৪ সমর্থিত; নির্ভরযোগ্য সূত্রে মৃত্যুসাল পাওয়া যায়নি, তাই উল্লেখ করা হয়নি। Commons ছবির বিবরণে ব্যক্তিকে জয় গোস্বামী হিসেবে শনাক্ত করা হয়েছে এবং আলোকচিত্রীর CC BY 3.0 লাইসেন্স দেওয়া আছে; Commons-এর শর্ত অনুযায়ী ছবিতে থাকা ব্যক্তির পৃথক অধিকার/সম্মতির বিষয় প্রযোজ্য হতে পারে।",
+      "research_status": "biography_and_photo_sourced"
+    },
+    {
+      "name": "জসীম উদ্‌দীন",
+      "biography_bn": "জসীম উদ্‌দীন (১ জানুয়ারি ১৯০৩–১৩ মার্চ ১৯৭৬) বাঙালি কবি, শিক্ষাবিদ ও লোকসাহিত্য-সংগ্রাহক; গ্রামবাংলার জীবন, প্রকৃতি ও লোকঐতিহ্যকে কবিতায় রূপ দেওয়ায় তিনি ‘পল্লীকবি’ নামে পরিচিত। তাঁর ‘কবর’, ‘নকশী কাঁথার মাঠ’ ও ‘সোজন বাদিয়ার ঘাট’ উল্লেখযোগ্য রচনা; কবিতার পাশাপাশি তিনি লোকসঙ্গীত সংগ্রহ ও সম্পাদনাতেও অবদান রাখেন।",
+      "bio_source_urls": [
+        "https://bn.banglapedia.org/index.php?title=%E0%A6%9C%E0%A6%B8%E0%A7%80%E0%A6%AE%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%A8",
+        "https://kabijasimuddin.org.bd/site/",
+        "https://www.thedailystar.net/news-detail-226149"
+      ],
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jasimuddin_Lomax_1951_%282%29.jpg",
+      "photo_source_url": "https://commons.wikimedia.org/wiki/File:Jasimuddin_Lomax_1951_(2).jpg",
+      "photo_license": "Public domain (Wikimedia Commons file page lists U.S. federal-government public-domain status and Bangladesh public domain due to expired copyright; copyright status may vary by jurisdiction).",
+      "photo_attribution": "Jennifer A. Cutting, American Folklife Center, Library of Congress (as credited on the Wikimedia Commons file page).",
+      "notes_bn": "Banglapedia ও জসীম উদ্‌দীন জাদুঘরের জীবনীতে জন্ম ১ জানুয়ারি ১৯০৩ এবং মৃত্যু ১৩ মার্চ ১৯৭৬ বলা হয়েছে। Commons-এর ফাইল পৃষ্ঠায় ছবিটি ‘Bengali Poet Jashimuddin’ হিসেবে বর্ণিত এবং ১৯৫১ সালে লন্ডনে Alan Lomax-এর রেকর্ডিংয়ের সঙ্গে সংশ্লিষ্ট উৎস উল্লেখ আছে; লাইসেন্স পৃষ্ঠায় দেওয়া হলেও কপিরাইটের মেয়াদ দেশভেদে আলাদা হতে পারে।",
+      "research_status": "biography_and_photo_sourced"
+    },
+    {
+      "name": "জামিল আশরাফ",
+      "biography_bn": "পাঠান জামিল আশরাফ সমকালীন বাংলা কবি; ঢাকা পোস্ট তাঁকে ‘পাঠান জামিল আশরাফ’ নামে পরিচয় দিয়ে তাঁর কবিতা প্রকাশ করেছে। ২০১৭ সালে তিনি বাংলাদেশ প্রগতি লেখক সংঘের ৫১ সদস্যের কমিটিতে সদস্য নির্বাচিত হন; নির্ভরযোগ্য প্রকাশ্য সূত্রে তাঁর জন্ম-মৃত্যুর সাল নিশ্চিত করা যায়নি।",
+      "bio_source_urls": [
+        "https://www.dhakapost.com/literature/57156",
+        "https://www.jagonews24.com/literature/news/202054",
+        "https://www.prothomalo.com/bangladesh/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%97%E0%A6%A4%E0%A6%BF-%E0%A6%B2%E0%A7%87%E0%A6%96%E0%A6%95-%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AD%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A6%BF-%E0%A6%AA%E0%A6%BF%E0%A6%A8%E0%A7%81-%E0%A6%B8%E0%A6াধ%E0%A6ারণ-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A6%A6%E0%A6%95-%E0%A6%9F%E0%A6%BF%E0%A6%AA%E0%A7%81",
+        "https://noynumberbus.com/tag/%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A6%BE%E0%A6%A8-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%B2-%E0%A6%86%E0%A6%B6%E0%A6%B0%E0%A6%BE%E0%A6%AB/"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "আলাদা প্রাতিষ্ঠানিক জীবনী বা নির্ভরযোগ্য জন্ম-মৃত্যুর তারিখ খুঁজে পাওয়া যায়নি; ব্যবহৃত সংবাদসূত্রগুলো কবিতা প্রকাশ ও সংগঠনের সদস্যপদ নিশ্চিত করে। অনুসন্ধানে একই নামে অন্য ব্যক্তি এবং ‘জামিল আশরাফ খান’ সম্পর্কিত ফলও এসেছে, কিন্তু সেগুলোর পরিচয় এই কবির সঙ্গে মেলানোর প্রমাণ নেই—তাই একীভূত করা হয়নি। কবির নিশ্চিত পরিচয়সহ পুনঃব্যবহারের লাইসেন্স যাচাই করা আসল প্রতিকৃতি পাওয়া যায়নি, তাই প্রতিকৃতি-সংক্রান্ত সব ক্ষেত্র null রাখা হয়েছে।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "জীবনানন্দ দাশ",
+      "biography_bn": "জীবনানন্দ দাশ (১৭ ফেব্রুয়ারি ১৮৯৯–২২ অক্টোবর ১৯৫৪) ছিলেন বরিশালে জন্মগ্রহণকারী বাংলা কবি ও শিক্ষাবিদ। তিনি তিরিশের দশকের আধুনিক বাংলা কবিতার অন্যতম প্রধান কবি; ‘রূপসী বাংলা’, ‘বনলতা সেন’সহ তাঁর কাব্যকর্মে প্রকৃতি, বাংলার ভূদৃশ্য ও আধুনিক জীবনের নিঃসঙ্গতা বিশেষভাবে প্রকাশ পেয়েছে।",
+      "bio_source_urls": [
+        "https://bn.banglapedia.org/index.php?title=%Eদাশ,%20জীবনানন্দ"
+      ],
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Jibanananda_Das_Old.jpg",
+      "photo_source_url": "https://commons.wikimedia.org/wiki/File:Jibanananda_Das_Old.jpg",
+      "photo_license": "Public domain in Bangladesh (PD-Bangladesh), as stated on the Wikimedia Commons file page; the page notes the Bangladesh copyright term for photographs.",
+      "photo_attribution": "Photographer unknown; Wikimedia Commons credits the source as bdnews24.com (http://arts.bdnews24.com/?p=3371/).",
+      "notes_bn": "বাংলা Banglapedia-র জীবনানন্দ দাশ নিবন্ধে জন্ম-মৃত্যুর তারিখ, কবি-শিক্ষাবিদ পরিচয় ও সাহিত্যকর্ম সমর্থিত। Commons-এর ছবির পাতায় ব্যক্তিকে ‘Young Jibanananda Das’ হিসেবে শনাক্ত ও PD-Bangladesh চিহ্নিত করা হয়েছে; তবে আলোকচিত্রীর নাম ও প্রথম প্রকাশের নির্দিষ্ট তারিখ দেওয়া নেই, এবং পাতায় সম্ভাব্য দেশভেদে কপিরাইট-সীমার সতর্কতা আছে।",
+      "research_status": "biography_and_photo_sourced"
+    },
+    {
+      "name": "টুটুল দাস",
+      "biography_bn": "কবিতা ককটেল-এর লেখক-পরিচিতিতে টুটুল দাসকে পশ্চিমবঙ্গের মালদহের একজন উদীয়মান বাংলা কবি হিসেবে পরিচয় করানো হয়েছে; সেখানে বলা হয়েছে, ছোটবেলা থেকেই তাঁর কবিতা লেখার শুরু। ওই সাহিত্যপত্রে তাঁর ‘নিজস্ব নদী’, ‘শহরনামা’সহ একাধিক কবিতা প্রকাশিত হয়েছে; নির্ভরযোগ্য সূত্রে তাঁর জন্ম বা মৃত্যুর সাল পাওয়া যায়নি।",
+      "bio_source_urls": [
+        "https://www.kobitacocktail.com/tutul-das/",
+        "https://www.kobitacocktail.com/%E0%A6%A8%E0%A6%BF%E0%A6%9C%E0%A6%B8%E0%A7%8D%E0%A6%AC-%E0%A6%A8%E0%A6%A6%E0%A7%80-%E0%A6%9F%E0%A7%81%E0%A6%9F%E0%A7%81%E0%A6%B2-%E0%A6%A6%E0%A6%BE%E0%A6%B8/"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "উন্মুক্ত অনুসন্ধানে কবিতা ককটেলের লেখক-পরিচিতি ও কবিতা-প্রকাশনাই এই মালদহের কবির পরিচয়ের স্পষ্ট উৎস; জন্ম-মৃত্যুর সাল সমর্থনকারী স্বাধীন প্রাতিষ্ঠানিক জীবনীসূত্র মেলেনি। কাছাকাছি নামের ব্যক্তি ও অনিশ্চিত পরিচয়ের ছবি এড়াতে, এবং পুনঃব্যবহারের লাইসেন্স যাচাই করা যায়নি বলে, প্রতিকৃতির সব ক্ষেত্র null রাখা হয়েছে।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "টোকন ঠাকুর",
+      "biography_bn": "টোকন ঠাকুর (জন্ম ১ ডিসেম্বর ১৯৭২, ঝিনাইদহ) বাংলাদেশের কবি, গদ্যকার ও চলচ্চিত্র নির্মাতা; তিনি ঢাকা বিশ্ববিদ্যালয়ের চারুকলা ইনস্টিটিউটে পড়াশোনা করেছেন। কবিতার একাধিক বই ও গদ্যগ্রন্থ প্রকাশ এবং সম্পাদনার পাশাপাশি তিনি চলচ্চিত্র নির্মাণ করেছেন; সাহিত্যসমালোচক সৈয়দ মনজুরুল ইসলাম তাঁকে সমসাময়িক বাংলা কবিতার উল্লেখযোগ্য কবিদের মধ্যে রেখেছেন।",
+      "bio_source_urls": [
+        "https://www.sree-bd.com/%E0%A6%9F%E0%A7%8B%E0%A6%95%E0%A6%A8-%E0%A6%A0%E0%A6%BE%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A7%87%E0%Aর-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95-%E0%A6%9C/",
+        "https://www.goethe.de/ins/in/lp/prj/ptp/mag/en14973237.htm",
+        "https://www.jagonews24.com/entertainment/news/633459"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "জন্মতারিখ ও কর্মপরিচয় ‘শ্রী’ সাহিত্যপত্রিকায় প্রকাশিত তাঁর লেখার সঙ্গে থাকা লেখক-পরিচিতি থেকে নেওয়া; গোয়েথে-ইনস্টিটিউটের প্রবন্ধ তাঁর কবি-পরিচয় সমর্থন করে। নির্ভরযোগ্যভাবে শনাক্ত করা ছবি পাওয়া গেলেও তার পুনঃব্যবহারের লাইসেন্স/অনুমতি যাচাই করা যায়নি, তাই প্রতিকৃতি-সংক্রান্ত সব ক্ষেত্র null রাখা হয়েছে। নির্ভরযোগ্য সূত্রে মৃত্যুসাল পাওয়া যায়নি; তাই উল্লেখ করা হয়নি।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "তসলিমা নাসরিন",
+      "biography_bn": "তসলিমা নাসরিন (জন্ম ২৫ আগস্ট ১৯৬২, ময়মনসিংহ) বাংলাদেশি বংশোদ্ভূত লেখক, কবি ও চিকিৎসক; তিনি নারীবাদী লেখালেখি ও মানবাধিকার-সংশ্লিষ্ট অবস্থানের জন্যও পরিচিত। কবিতা, উপন্যাস, প্রবন্ধ ও আত্মজীবনীসহ তাঁর বহু রচনা প্রকাশিত হয়েছে; তাঁর কবিতাগ্রন্থ *Hunger in the Roots* ১৯৮৯ সালে প্রকাশিত হয়।",
+      "bio_source_urls": [
+        "https://www.britannica.com/biography/Taslima-Nasrin",
+        "https://www.pen100archive.org/pen_stories/pen-case-1996-taslima-nasrin-bangladesh-exiled/"
+      ],
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Taslima_Nasrin_par_Claude_Truong-Ngoc_novembre_2013.jpg",
+      "photo_source_url": "https://commons.wikimedia.org/wiki/File:Taslima_Nasrin_par_Claude_Truong-Ngoc_novembre_2013.jpg",
+      "photo_license": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0); https://creativecommons.org/licenses/by-sa/3.0",
+      "photo_attribution": "Photo Claude TRUONG-NGOC; Wikimedia Commons file page identifies Taslima Nasrin at the European Parliament in Strasbourg, 20 November 2013. Attribution and ShareAlike terms apply.",
+      "notes_bn": "Britannica জন্মতারিখ ও পরিচয় নিশ্চিত করে; PEN-এর আর্কাইভে কবিতা-সহ সাহিত্যকর্মের তথ্য রয়েছে। জীবিত বলে নির্ভরযোগ্য সূত্রে মৃত্যু-সাল নেই। প্রতিকৃতির পরিচয়, আলোকচিত্রীর নাম ও CC BY-SA 3.0 লাইসেন্স Commons ফাইল পাতায় যাচাই করা হয়েছে।",
+      "research_status": "biography_and_photo_sourced"
+    },
+    {
+      "name": "তারাপদ রায়",
+      "biography_bn": "তারাপদ রায় (১৭ নভেম্বর ১৯৩৬–২৫ আগস্ট ২০০৭) টাঙ্গাইলে জন্মগ্রহণকারী বাংলা কবি ও লেখক; তিনি কবিতার পাশাপাশি ছোটগল্প, প্রবন্ধ ও রম্যরচনা লিখেছেন এবং আধুনিক বাংলা সাহিত্যে তাঁর ব্যঙ্গাত্মক রসবোধের জন্য বিশেষভাবে পরিচিত। তাঁর প্রথম কবিতার বই ‘তোমার প্রতিমা’ ১৯৬০ সালে প্রকাশিত হয়; তিনি কলকাতায় মৃত্যুবরণ করেন।",
+      "bio_source_urls": [
+        "https://www.prothomalo.com/bangladesh/%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AE%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A7%87%E0%A6%87-%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A7%8B-%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A6%BF%E0%A6%9A%E0%A6%BF%E0%A6%B9%E0%A7%8D%E0%A6%A8-2",
+        "https://www.ajkerpatrika.com/adda/ajp5yodrj0gbb",
+        "https://www.telegraphindia.com/west-bengal/tarapada-roy-dead/cid/1557592"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "ছবি হিসেবে কোনো সরাসরি ইমেজ URL ও তারাপদ রায়ের পরিচয় এবং পুনঃব্যবহারের অনুমতি/লাইসেন্স একসঙ্গে প্রমাণ করে এমন নির্ভরযোগ্য পৃষ্ঠা যাচাই করা যায়নি; তাই প্রতিকৃতির সব ক্ষেত্র null রাখা হয়েছে।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "দেওয়ান মমিনুল মউজদীন",
+      "biography_bn": "দেওয়ান মমিনুল মউজদীন (২৯ আগস্ট ১৯৫৫–১৫ নভেম্বর ২০০৭) ছিলেন সুনামগঞ্জের কবি ও তিনবারের পৌর চেয়ারম্যান, এবং মরমি সাধক হাসন রাজার প্রপৌত্র। তাঁর কাব্যগ্রন্থের মধ্যে রয়েছে ‘এ শহর ছেড়ে পালাবো কোথায়’ ও ‘হৃদয় ভাঙার শব্দ’; ঢাকা থেকে সুনামগঞ্জ ফেরার পথে সড়ক দুর্ঘটনায় তাঁর মৃত্যু হয়।",
+      "bio_source_urls": [
+        "https://www.ntvbd.com/bangladesh/%E0%A6%95%E0%A6%AC%E0%A6%BF-%E0%A6%AE%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A7%81%E0%A6%B2-%E0%A6%AE%E0%A6%89%E0%A6%9C%E0%A6%A6%E0%A7%80%E0%A6%A8-%E0%A6%B8%E0%A7%83%E0%A6%9C%E0%A6%A8%E0%A6%B6%E0%A7%80%E0%A6%B2-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7-%E0%A6%9B%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%A8-657317",
+        "https://www.prothomalo.com/bangladesh/%E0%A6%AE%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A7%81%E0%A6%B2-%E0%A6%AE%E0%A6%89%E0%A6%9C%E0%A6%A6%E0%A7%80%E0%A6%A8-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A6%BF%E0%A6%A4-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7-%E0%A6%9B%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%A8",
+        "https://sunamkantha.com/post/print/7456"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "জন্মতারিখটি সুনামকণ্ঠের জীবনীমূলক নিবন্ধে সমর্থিত; প্রথম আলো মৃত্যুর সুনির্দিষ্ট তারিখ জানায় এবং এনটিভি তাঁর কবি-পরিচয়, পৌর চেয়ারম্যানের ভূমিকা ও কাব্যগ্রন্থের তথ্য নিশ্চিত করে। খোঁজে কয়েকটি সংবাদছবি পাওয়া গেলেও কোনো নির্ভরযোগ্য পৃষ্ঠা থেকে ছবির পরিচয় ও পুনর্ব্যবহারের লাইসেন্স যাচাই করা যায়নি; তাই প্রতিকৃতির সব ক্ষেত্র null রাখা হয়েছে।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "দেবব্রত সিংহ",
+      "biography_bn": "দেবব্রত সিংহ পশ্চিমবঙ্গের আঞ্চলিক/লোককবি হিসেবে পরিচিত; বাঁকুড়ার আঞ্চলিক ভাষায় লেখা তাঁর ‘তেজ’ কবিতার মাধ্যমে তিনি দুই বাংলার কবিতাপ্রেমীদের কাছে পরিচিতি পান। ২০২২ সালে ‘তেজ’-এর নাট্যরূপের মঞ্চায়ন উপলক্ষে তিনি বাংলাদেশ সফর করেন।",
+      "bio_source_urls": [
+        "https://www.channel24bd.tv/art-literature/article/103257/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%AA%E0%A6%B6%E0%A7%8D%E0%A6%9A%E0%A6%BF%E0%A6%AE%E0%A6%AC%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%AC%E0%A6%BF-%E0%A6%A6%E0%A7%87%E0%A6%AC%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%A4-%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9",
+        "https://www.jagonews24.com/literature/news/761234"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "উল্লিখিত সংবাদসূত্রে জন্ম বা মৃত্যুর সাল দেওয়া নেই; তাই কোনো সাল যোগ করা হয়নি। একই রকম নামের ‘দেবব্রত সিংহ ঠাকুর’ নামের হিন্দুস্তানি সংগীতশিল্পীর তথ্য এই কবির সঙ্গে মেলানো হয়নি। ব্যক্তির পরিচয় নিশ্চিত করে এবং পুনঃব্যবহারের লাইসেন্স/শর্ত দেখায়—এমন নির্ভরযোগ্য প্রতিকৃতি-সূত্র পাওয়া যায়নি, তাই portrait_* ক্ষেত্র null রাখা হয়েছে।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "নবকৃষ্ণ ভট্টাচার্য",
+      "biography_bn": "নবকৃষ্ণ ভট্টাচার্য (১৮৫৯–১৯৩৯) ছিলেন উনিশ শতকের শেষভাগ ও বিশ শতকের প্রথমার্ধের বাঙালি কবি ও শিশুসাহিত্যিক; শিশুদের জন্য ছড়া-কবিতা ও রামায়ণভিত্তিক রচনা লিখে তিনি পরিচিতি পান। ‘কাজের লোক’ তাঁর বহুল পরিচিত ছড়া, আর ‘শিশুরঞ্জন রামায়ণ’ ও ‘টুকটুকে রামায়ণ’ তাঁর উল্লেখযোগ্য রচনা; তিনি ‘সখা’ পত্রিকার সম্পাদকও ছিলেন।",
+      "bio_source_urls": [
+        "https://books.openedition.org/pufr/4974",
+        "https://www.kaliokalam.com/প্রমদাচরণ-সেন-বাংলা-শিশু/",
+        "https://www.jathaichchatathaja.com/2018/09/11/কাজের-লোকের-কবির-খোঁজে/",
+        "https://archive.org/details/in.ernet.dli.2015.513121",
+        "https://bn.wikisource.org/wiki/লেখক:নবকৃষ্ণ_ভট্টাচার্য",
+        "https://commons.wikimedia.org/wiki/File:%E0%A6%B6%E0%A6%BF%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A6%A8_%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%A3_-_%E0%A6%A8%E0%A6%AC%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%A3_%E0%A6%AD%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF_(%E0%A7%A7%E0%A7%AE%E0%A7%AF%E0%A৪).pdf?uselang=bn",
+        "https://www.teachers.gov.bd/blog/details/706074"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "জন্ম-মৃত্যুর সাল হিসেবে ১৮৫৯–১৯৩৯ উইকিসংকলনের লেখক-তথ্য এবং ১৮৯৪ সালের গ্রন্থের Wikimedia Commons রেকর্ডে মেলে; তবে বাংলাদেশের সরকারি শিক্ষক-পোর্টালের একটি ব্যক্তিগত ব্লগে ১৮৬০/১৯৪১ লেখা আছে, তাই পূর্ণ তারিখ নিয়ে উৎসভেদে অসংগতি রয়েছে। অনুসন্ধানে এই কবির নিশ্চিত পরিচয়সহ এবং পুনঃব্যবহারের লাইসেন্স যাচাইযোগ্য কোনো প্রতিকৃতি পাইনি; একই পদবির অন্য ভট্টাচার্যদের ছবি ভুলভাবে আরোপের ঝুঁকি এড়াতে portrait ক্ষেত্রগুলো null রাখা হয়েছে।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "নবারুণ ভট্টাচার্য",
+      "biography_bn": "নবারুণ ভট্টাচার্য (১৯৪৮–২০১৪) ছিলেন বাংলা ভাষার একজন ভারতীয় কবি ও কথাসাহিত্যিক; তিনি কবিতা, ছোটগল্প ও উপন্যাস লিখেছেন। তাঁর উল্লেখযোগ্য রচনার মধ্যে উপন্যাস ‘হারবার্ট’ ও ‘কাঙাল মালসাট’ এবং কবিতার বই ‘এই মৃত্যু উপত্যকা আমার দেশ না’ রয়েছে; তাঁর লেখায় প্রান্তিক মানুষের জীবন ও ক্ষমতার সমালোচনা বিশেষভাবে উঠে এসেছে।",
+      "bio_source_urls": [
+        "https://seagullbooks.org/collections/author-nabarun-bhattacharya",
+        "https://press.uchicago.edu/ucp/books/author/B/N/au38690058.html",
+        "https://www.thehindu.com/news/cities/kolkata/writer-nabarun-bhattacharya-passes-away/article6271522.ece",
+        "https://commons.wikimedia.org/wiki/File:NabarunBhattacharya.jpg"
+      ],
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/NabarunBhattacharya.jpg",
+      "photo_source_url": "https://commons.wikimedia.org/wiki/File:NabarunBhattacharya.jpg",
+      "photo_license": "Creative Commons Attribution-Share Alike 4.0 International (CC BY-SA 4.0); https://creativecommons.org/licenses/by-sa/4.0/",
+      "photo_attribution": "Ayan Clementine / Wikimedia Commons — ‘NabarunBhattacharya.jpg’ (CC BY-SA 4.0)",
+      "notes_bn": "জীবনকাল ১৯৪৮–২০১৪ প্রকাশক Seagull Books ও University of Chicago Press-এর লেখক-পরিচিতিতে সমর্থিত; The Hindu-র সমসাময়িক সংবাদও ২০১৪ সালে তাঁর মৃত্যুর কথা জানায়। প্রতিকৃতির পরিচয় Commons-এর ফাইল পাতায় ‘নবারুণ ভট্টাচার্য’ হিসেবে দেওয়া এবং পুনঃব্যবহারের লাইসেন্স CC BY-SA 4.0 উল্লেখিত; পুনঃপ্রকাশে যথাযথ কৃতিত্ব, লাইসেন্সের লিংক ও পরিবর্তন থাকলে তার উল্লেখ দিন।",
+      "research_status": "biography_and_photo_sourced"
+    },
+    {
+      "name": "নাজিম মাহমুদ",
+      "biography_bn": "নাজিম মাহমুদ (১৭ নভেম্বর ১৯৩৫—১৭ মে ১৯৯৮) যশোরে জন্মগ্রহণকারী বাংলাদেশি কবি, গীতিকার, নাট্যকার ও সাংস্কৃতিক সংগঠক; রাজশাহী বিশ্ববিদ্যালয়ের কেন্দ্রীয় গ্রন্থাগারের তালিকাভুক্ত বাংলা একাডেমি-প্রকাশিত তাঁর জীবনীগ্রন্থেও ১৯৩৫–১৯৯৮ সাল দেওয়া হয়েছে। তাঁর কাব্যগ্রন্থ ‘ভালোবাসার কথা’, নাটক ও মুক্তিযুদ্ধস্মৃতিকথার পাশাপাশি তিনি রাজশাহী বিশ্ববিদ্যালয়ের সাংস্কৃতিক কর্মকাণ্ডে সক্রিয় ছিলেন এবং আবৃত্তি সংগঠন স্বননের পৃষ্ঠপোষকতা করেন।",
+      "bio_source_urls": [
+        "http://opac.uttarauniversity.edu.bd/bib/6712",
+        "https://opac.ru.ac.bd/bib/39922",
+        "https://nazimmahmud.wordpress.com/category/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%AA%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A6%BF/",
+        "https://protidinerbangladesh.com/opinion/80010/%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A7%81-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A6%be%E0%A7%9f%E2%80%A6"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "পরিচয়টি নির্দিষ্ট করা হয়েছে যশোরে জন্মানো (১৯৩৫–১৯৯৮) রাজশাহী বিশ্ববিদ্যালয়-সংশ্লিষ্ট কবি ও সাংস্কৃতিক সংগঠক হিসেবে; একই/কাছাকাছি নামের ব্যক্তিদের তথ্য এতে মেশানো হয়নি। জন্ম-মৃত্যুর সাল বাংলা একাডেমি প্রকাশিত জীবনীগ্রন্থের বিশ্ববিদ্যালয় গ্রন্থাগার ক্যাটালগে আছে; বিস্তৃত কর্মকালের বিবরণ জীবনী-সংকলন ও সংবাদসূত্রের সঙ্গে মিলিয়ে নেওয়া হয়েছে। খোঁজে একটি প্রতিকৃতি-সদৃশ ছবি পাওয়া গেলেও তার পুনঃব্যবহারের লাইসেন্স বা অনুমতি যাচাই করা যায়নি, তাই ছবির URL ও লাইসেন্স-সংক্রান্ত ক্ষেত্রগুলো null রাখা হয়েছে।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "নাজিম হিকমত",
+      "biography_bn": "নাজিম হিকমত (১৯০২–১৯৬৩) ছিলেন তুর্কি কবি, নাট্যকার ও বিংশ শতকের তুর্কি সাহিত্যের অন্যতম প্রভাবশালী আধুনিকতাবাদী কণ্ঠ। মুক্তছন্দ ও নতুন কাব্যরীতির ব্যবহারে তিনি তুর্কি কবিতাকে গভীরভাবে প্রভাবিত করেন; তাঁর উল্লেখযোগ্য রচনার মধ্যে ‘শেখ বেদরেদ্দিনের মহাকাব্য’ এবং ‘আমার দেশের মানুষের দৃশ্যাবলি’ রয়েছে।",
+      "bio_source_urls": [
+        "https://www.britannica.com/biography/Nazim-Hikmet",
+        "https://poets.org/poet/nazim-hikmet",
+        "https://commons.wikimedia.org/wiki/File:Nazim_Hikmet.jpg",
+        "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-14809-0004,_Berlin,_Schriftsteller-Besuch.jpg"
+      ],
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Nazim_Hikmet.jpg",
+      "photo_source_url": "https://commons.wikimedia.org/wiki/File:Nazim_Hikmet.jpg",
+      "photo_license": "Creative Commons Attribution-Share Alike 3.0 Germany (CC BY-SA 3.0 DE)",
+      "photo_attribution": "Bundesarchiv, Bild 183-14809-0004 / Sturm, Horst / CC-BY-SA 3.0; Wikimedia Commons-এর ফাইলটি মূল আর্কাইভ ছবির ক্রপ।",
+      "notes_bn": "জন্ম-মৃত্যুর দিন নিয়ে সূত্রে কিছু অমিল আছে; তাই এখানে নির্ভরযোগ্য Britannica-র সঙ্গে সামঞ্জস্য রেখে শুধু সাল দেওয়া হয়েছে। Commons-এর ছবির পরিচয় মূল Bundesarchiv ছবির ক্যাপশনে নাজিম হিকমত হিসেবে নিশ্চিত; পুনঃব্যবহারে CC BY-SA 3.0 Germany-এর শর্ত ও যথাযথ অ্যাট্রিবিউশন মানতে হবে।",
+      "research_status": "biography_and_photo_sourced"
+    },
+    {
+      "name": "নির্মলেন্দু গুণ",
+      "biography_bn": "নির্মলেন্দু গুণ (জন্ম ২১ জুন ১৯৪৫) বাংলাদেশের একজন কবি; তিনি ১৯৬০-এর দশকের কবিপ্রজন্মের অন্যতম এবং সহজবোধ্য কবিতার জন্য পরিচিত। ১৯৭০ সালে তাঁর প্রথম কাব্যগ্রন্থ প্রকাশিত হয়; তাঁর কবিতায় সমাজের বৈষম্য, স্বাধীনতার আকাঙ্ক্ষা ও মানবিকতার ভাবনা উঠে এসেছে।",
+      "bio_source_urls": [
+        "https://www.poetrytranslation.org/poet/nirmalendu-goon/",
+        "https://www.loc.gov/acq/overseas-offices/delhi/salrp/bengali.html"
+      ],
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Nirmalendu_Goone_2016.jpg",
+      "photo_source_url": "https://commons.wikimedia.org/wiki/File:Nirmalendu_Goone_2016.jpg",
+      "photo_license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "photo_attribution": "Faizul Latif Chowdhury, Wikimedia Commons; CC BY-SA 4.0. ব্যবহারে যথাযথ স্বীকৃতি দিতে হবে; পরিবর্তিত সংস্করণ একই বা সামঞ্জস্যপূর্ণ লাইসেন্সে প্রকাশ করতে হবে।",
+      "notes_bn": "জন্মসাল ও সাহিত্যিক পরিচয় Poetry Translation Centre এবং Library of Congress-এর South Asian Literary Recordings Project-এ মিলিয়ে দেখা হয়েছে। নির্ভরযোগ্য সূত্রে মৃত্যুসাল পাওয়া যায়নি; তাই জীবনীতে শুধু জন্মসাল দেওয়া হয়েছে। প্রতিকৃতির Commons পৃষ্ঠায় ব্যক্তিকে বাংলাদেশের কবি নির্মলেন্দু গুণ হিসেবে শনাক্ত করা, আলোকচিত্রীর নাম ও CC BY-SA 4.0 লাইসেন্স উল্লেখ আছে। ছবির উৎস/লাইসেন্স: https://commons.wikimedia.org/wiki/File:Nirmalendu_Goone_2016.jpg",
+      "research_status": "biography_and_photo_sourced"
+    },
+    {
+      "name": "নীরেন্দ্রনাথ চক্রবর্তী",
+      "biography_bn": "নীরেন্দ্রনাথ চক্রবর্তী (১৯ অক্টোবর ১৯২৪–২৫ ডিসেম্বর ২০১৮) ছিলেন আধুনিক বাংলা সাহিত্যের বিশিষ্ট কবি, গদ্যকার ও সম্পাদক; তাঁর প্রথম কাব্যগ্রন্থ ‘নীল নির্জনে’ প্রকাশিত হয় ১৯৫৪ সালে। ‘উলঙ্গ রাজা’ কাব্যগ্রন্থের জন্য তিনি ১৯৭৪ সালে সাহিত্য অকাদেমি পুরস্কার পান এবং শিশু-কিশোর পত্রিকা ‘আনন্দমেলা’র সম্পাদক হিসেবেও দীর্ঘদিন কাজ করেন।",
+      "bio_source_urls": [
+        "https://www.anandabazar.com/editorial/eminent-bengali-poet-niendra-nath-chakraborty-dies-at-94-1.921304",
+        "https://indianexpress.com/article/cities/kolkata/nirendranath-chakraborty-dead-at-94-5509451/",
+        "https://timesofindia.indiatimes.com/city/kolkata/the-guardian-of-bengali-literature-passes-away/articleshow/67250530.cms"
+      ],
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Nirendranath_Chakraborty_in_2014.jpeg",
+      "photo_source_url": "https://commons.wikimedia.org/wiki/File:Nirendranath_Chakraborty_in_2014.jpeg",
+      "photo_license": "Government Open Data License - India (GODL-India)",
+      "photo_attribution": "President's Secretariat (GODL-India); উৎস-পাতায় উল্লিখিত প্রয়োজনীয় কৃতিত্ব-স্বীকৃতি।",
+      "notes_bn": "জন্মতারিখ, সাহিত্যিক পরিচয় ও পুরস্কারের তথ্য আনন্দবাজার, ইন্ডিয়ান এক্সপ্রেস ও টাইমস অব ইন্ডিয়ার প্রতিবেদনের সঙ্গে মিলিয়ে নেওয়া হয়েছে। প্রতিকৃতির Commons পৃষ্ঠায় ছবিটিকে ১১ জানুয়ারি ২০১৪-এ রাষ্ট্রপতি প্রণব মুখোপাধ্যায়ের কাছ থেকে পুরস্কার গ্রহণরত কবি হিসেবে শনাক্ত করা হয়েছে; পৃষ্ঠাটিতে সরকারি মূল উৎস এবং GODL-India লাইসেন্স উল্লেখ আছে।",
+      "research_status": "biography_and_photo_sourced"
+    },
+    {
+      "name": "পাবলো নেরুদা",
+      "biography_bn": "পাবলো নেরুদা (জন্মনাম নেফতালি রিকার্দো রেয়েস বাসোয়ালতো; ১৯০৪–১৯৭৩) ছিলেন চিলির কবি, কূটনীতিক ও রাজনীতিবিদ, যিনি বিংশ শতাব্দীর গুরুত্বপূর্ণ লাতিন আমেরিকান কবিদের একজন হিসেবে পরিচিত। প্রেমের কবিতা, ‘Canto general’-এর মতো মহাকাব্যিক রচনা এবং বিস্তৃত কাব্যসৃষ্টির জন্য তিনি খ্যাতি অর্জন করেন; ১৯৭১ সালে সাহিত্যে নোবেল পুরস্কার পান।",
+      "bio_source_urls": [
+        "https://www.nobelprize.org/prizes/literature/1971/neruda/biographical/",
+        "https://www.britannica.com/biography/Pablo-Neruda"
+      ],
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Pablo_Neruda_by_Annemarie_Heinrich%2C_1967.jpg",
+      "photo_source_url": "https://commons.wikimedia.org/wiki/File:Pablo_Neruda_by_Annemarie_Heinrich,_1967.jpg",
+      "photo_license": "Wikimedia Commons পৃষ্ঠায় আর্জেন্টিনায় কপিরাইট-মেয়াদোত্তীর্ণের কারণে Public Domain এবং যুক্তরাষ্ট্রেও Public Domain হিসেবে চিহ্নিত; ব্যবহারের আগে প্রযোজ্য স্থানীয় আইন যাচাই করুন।",
+      "photo_attribution": "আনেমারি হাইনরিখ (Annemarie Heinrich), ১৯৬৭; Wikimedia Commons ফাইল পাতার তথ্য অনুযায়ী।",
+      "notes_bn": "জন্ম ও মৃত্যুর নির্দিষ্ট তারিখ এবং সাহিত্যিক পরিচয় নোবেল পুরস্কারের প্রাতিষ্ঠানিক জীবনী দিয়ে যাচাই করা হয়েছে। নির্বাচিত Commons পাতায় ছবিটিকে পাবলো নেরুদার ১৯৬৭ সালের প্রতিকৃতি বলা হয়েছে এবং আলোকচিত্রী হিসেবে আনেমারি হাইনরিখের নাম দেওয়া আছে; লাইসেন্সের বিবরণও ওই পাতার ওপর নির্ভরশীল।",
+      "research_status": "biography_and_photo_sourced"
+    },
+    {
+      "name": "পূর্ণেন্দু পত্রী",
+      "biography_bn": "পূর্ণেন্দুশেখর পত্রী (পূর্ণেন্দু পত্রী; ইংরেজিতে Purnendu Patri/Pattrea) ছিলেন বিংশ শতকের বাঙালি কবি, লেখক, প্রচ্ছদশিল্পী ও চলচ্চিত্রকার; তিনি ২ ফেব্রুয়ারি ১৯৩১-এ হাওড়ায় জন্মগ্রহণ করেন এবং ১৯ মার্চ ১৯৯৭-এ মৃত্যুবরণ করেন। কবিতার পাশাপাশি শিশুসাহিত্য, কলকাতার ইতিহাসবিষয়ক গবেষণা ও বইয়ের প্রচ্ছদশিল্পে তাঁর অবদান রয়েছে; ‘স্ত্রীর পত্র’সহ চলচ্চিত্র পরিচালনাতেও তিনি পরিচিতি পান।",
+      "bio_source_urls": [
+        "https://banglalive.com/purnendu-pattrea/",
+        "https://www.protidinersangbad.com/todays-newspaper/khayal-khushi/65711/%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80",
+        "https://banglacinema100.com/profile-details/V1VWbWNuWkthbXc0ZDFkelJURm5PR2RtTkVkTVFUMDk%3D"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "পরিচয় ও জন্ম-মৃত্যুর সাল বাংলা জীবনী-নিবন্ধ ও চলচ্চিত্র-প্রোফাইলে মেলে। যাচাইয়ে পাওয়া Commons-এর ছবিগুলো অন্য ব্যক্তি Patri Satish Kumar-এর; পূর্ণেন্দু পত্রীর উইকিপিডিয়া-ছবি অ-মুক্ত/ন্যায্য-ব্যবহার হিসেবে চিহ্নিত, তাই পুনঃব্যবহারের অনুমতি যাচাই করা যায়নি। Flickr-এ তাঁর নামে ছবি থাকলেও প্রদর্শিত তথ্য থেকে ব্যবহার-লাইসেন্স নিশ্চিত হয়নি; সে কারণে প্রতিকৃতির সব ক্ষেত্র null রাখা হয়েছে।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "প্রণবকুমার চট্টোপধ্যায়",
+      "biography_bn": "প্রণবকুমার চট্টোপাধ্যায় একজন বাংলা কবি, অনুবাদক ও লিটল ম্যাগাজিন সম্পাদক; ১৯৮১ সাল থেকে তিনি ‘ক্লেদজ কুসুম’ সম্পাদনা করে আসছেন। তাঁর উল্লেখযোগ্য কাব্যগ্রন্থের মধ্যে রয়েছে ‘পদ্মকোরকের বুক শিশিরে ভেজেনি’, ‘অছান্দিক মন্ত্রমালা’ ও ‘অনত্থপদ সংহিতা’; মিলনসাগরের কবি-পরিচিতি পাতায় তাঁর জন্মতারিখ ২৭ ডিসেম্বর ১৯৫৩ বলা হয়েছে, তবে নির্ভরযোগ্য সূত্রে মৃত্যুসাল পাইনি।",
+      "bio_source_urls": [
+        "https://www.milansagar.com/kobi_10/pranabkumar_chattopadhyay/kobi-pranab_porichiti.html",
+        "https://www.milansagar.com/kobi_10/pranabkumar_chattopadhyay/kobi-pranabkumar.html",
+        "https://www.bangla-kobita.com/pranabkumar/",
+        "https://poemsofpranabkumarchattopadhyay.blogspot.com/"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "মিলনসাগরের পরিচিতি পাতায় কবির সঙ্গে ইমেল-যোগাযোগকে তথ্যের উৎস বলা হয়েছে; জন্মতারিখটি ওই সাইটের কবি-পাতায়ও দেওয়া আছে। সরকারি/বিশ্ববিদ্যালয় বা স্বাধীন প্রাতিষ্ঠানিক জীবনীসূত্র এবং নির্ভরযোগ্য মৃত্যুসাল পাওয়া যায়নি। অনলাইনে তাঁর বলে চিহ্নিত কিছু ছবি দেখা গেলেও ছবির পৃষ্ঠায় পুনঃব্যবহারের স্পষ্ট লাইসেন্স/অনুমতি যাচাই করতে না পারায় প্রতিকৃতির সব ক্ষেত্র null রাখা হয়েছে; ভিন্ন নামের/পেশার ব্যক্তিদের ছবি ব্যবহার করা হয়নি।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "প্রেমেন্দ্র মিত্র",
+      "biography_bn": "প্রেমেন্দ্র মিত্র (৪ সেপ্টেম্বর ১৯০৪–৩ মে ১৯৮৮) কাশীতে জন্মগ্রহণকারী বাঙালি কবি, কথাসাহিত্যিক, সাংবাদিক ও সম্পাদক; তিনি ১৯৩০-এর দশকের আধুনিক বাংলা কবিতার অন্যতম গুরুত্বপূর্ণ কণ্ঠ এবং কল্লোল-পরিমণ্ডলের লেখক ছিলেন। কবিতা, উপন্যাস ও ছোটগল্পের পাশাপাশি বাংলা কল্পবিজ্ঞান এবং ঘনাদা ও পরাশর বর্মার মতো জনপ্রিয় চরিত্র সৃষ্টিতে তাঁর বিশেষ অবদান রয়েছে।",
+      "bio_source_urls": [
+        "https://en.banglapedia.org/index.php/Mitra%2C_Premendra",
+        "https://teachers.gov.bd/content/details/654052",
+        "https://dainikazadi.net/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%95%E0%A6%AC%E0%A6%BF-%E0%A6%93-%E0%A6%94-2/"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "Banglapedia-তে জন্মের মাস ও বছর (সেপ্টেম্বর ১৯০৪) এবং মৃত্যুর তারিখ (৩ মে ১৯৮৮) দেওয়া আছে; ৪ সেপ্টেম্বরের পূর্ণ জন্মতারিখ সরকারি শিক্ষাপোর্টাল ও Dainik Azadi-তে সমর্থিত। Wikimedia Commons-এর প্রেমেন্দ্র মিত্র বিভাগে কোনো প্রতিকৃতি নেই—শুধু অডিও ও চলচ্চিত্র ফাইল—এবং খোঁজে পাওয়া অন্য ছবির জন্য লাইসেন্স/পুনঃব্যবহারের অনুমতি নির্ভরযোগ্যভাবে যাচাই করা যায়নি; তাই প্রতিকৃতির সব ক্ষেত্র null রাখা হয়েছে।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "ফয়জুল আলম পাপপু",
+      "biography_bn": "বাংলাদেশি কবি, লেখক, আবৃত্তিশিল্পী ও সাংস্কৃতিক সংগঠক ফয়জুল আলম পাপ্পু এক সাক্ষাৎকারে জানান, তাঁর জন্ম পুরান ঢাকার নাজিমুদ্দিন রোডে। চার দশকেরও বেশি সময়ের সাহিত্য-আবৃত্তি চর্চায় তিনি ১৯৯০ সালে প্রতিষ্ঠিত ‘প্রকাশ সাহিত্য সাংস্কৃতিক সংগঠন’-এর প্রতিষ্ঠাতা-সাধারণ সম্পাদক হিসেবে কাজ করেছেন এবং আবৃত্তি ও উচ্চারণবিষয়ক গ্রন্থ লিখেছেন ও সম্পাদনা করেছেন।",
+      "bio_source_urls": [
+        "https://www.youtube.com/watch?v=UaUdJIePUiU",
+        "https://www.newagebd.net/post/others1/251241/poetry-for-upholding-mass-uprising-spirit-held-at-bsa",
+        "https://www.rokomari.com/book/99335/aso-uccaron-shikhi",
+        "https://nandonik.org/%E0%A6%86%E0%A6%AC%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%95%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%BE-%E0%A6%B8%E0%A6%AE%E0%A6%97%E0%A7%8D%E0%A6%B0-%E0%A6%AB%E0%A6%AF%E0%A6%BC/"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "বিশ্বাসযোগ্য সূত্রে তাঁর জন্মসাল বা মৃত্যুসাল নিশ্চিত করা যায়নি, তাই উল্লেখ করা হয়নি। কাছাকাছি নামের অন্য ব্যক্তির ছবি ও পরিচয় বাদ দিয়ে অনুসন্ধানে তাঁর ছবি-সদৃশ ভিডিও/বইয়ের ছবি পাওয়া গেলেও সেগুলোর পুনঃব্যবহারের লাইসেন্স যাচাই করা যায়নি; তাই প্রতিকৃতির ক্ষেত্রগুলো null রাখা হয়েছে।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "ফররুখ আহমদ",
+      "biography_bn": "ফররুখ আহমদ (১০ জুন ১৯১৮–১৯ অক্টোবর ১৯৭৪) ছিলেন বাংলা ভাষার কবি ও শিশুসাহিত্যিক; তাঁর জন্ম মাগুরা জেলার শ্রীপুরের মাঝাইল গ্রামে এবং মৃত্যু ঢাকায়। ‘লাশ’ কবিতার মাধ্যমে তিনি খ্যাতি অর্জন করেন; তাঁর কবিতায় মুসলিম সংস্কৃতি ও পুনর্জাগরণের ভাবনা, আরবি-ফারসি শব্দপ্রয়োগ এবং স্বতন্ত্র কাব্যভঙ্গি বিশেষভাবে লক্ষণীয়, আর ‘সাত সাগরের মাঝি’ তাঁর উল্লেখযোগ্য কাব্যগ্রন্থ।",
+      "bio_source_urls": [
+        "https://bn.banglapedia.org/index.php?title=%E0%A6%86%Eহম%E0%A6%A6,_%E0%A6%AB%E0%A6%B0%E0%A6%B0%E0%A7%81%Eখ",
+        "https://en.banglapedia.org/index.php/Ahmad,_Farrukh"
+      ],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "বাংলা ও ইংরেজি Banglapedia নিবন্ধে পরিচয়, জন্ম-মৃত্যুর তারিখ এবং সাহিত্যকর্মের তথ্য মেলে। Wikimedia Commons-এ ব্যক্তি-পরিচয় নিশ্চিত এবং পুনঃব্যবহারের লাইসেন্স যাচাইযোগ্য এমন কোনো প্রতিকৃতি পাইনি; তাই ছবি-সংক্রান্ত সব ক্ষেত্র null রাখা হয়েছে।",
+      "research_status": "biography_sourced_photo_unavailable"
+    },
+    {
+      "name": "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+      "biography_bn": "বঙ্কিমচন্দ্র চট্টোপাধ্যায় (ইংরেজি বানানে Bankim Chandra Chatterjee; ১৮৩৮–১৮৯৪) ছিলেন উনিশ শতকের বাঙালি ঔপন্যাসিক, কবি ও প্রাবন্ধিক। তাঁর উপন্যাস বাংলা গদ্যকে সাহিত্যিক মাধ্যম হিসেবে প্রতিষ্ঠায় গুরুত্বপূর্ণ ভূমিকা রাখে; ‘আনন্দমঠ’ উপন্যাসে অন্তর্ভুক্ত ‘বন্দে মাতরম্‌’ তাঁর অন্যতম প্রসিদ্ধ রচনা।",
+      "bio_source_urls": [
+        "https://www.britannica.com/biography/Bankim-Chandra-Chatterjee",
+        "https://www.wbtourism.gov.in/legends-view-byId/63e0a8e750952a1a1b0e95ed/BANKIM%20CHANDRA%20CHATTOPADHYAY%281838-1894%29"
+      ],
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/%E0%A6%AC%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%AE%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%Aয়.jpg",
+      "photo_source_url": "https://commons.wikimedia.org/wiki/File:%E0%A6%AC%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%AE%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.jpg",
+      "photo_license": "Public domain (Wikimedia Commons অনুযায়ী)",
+      "photo_attribution": "শিল্পী অজ্ঞাত; Wikimedia Commons-এর ফাইল-বিবরণে ছবির উৎস হিসেবে Calcuttaweb-এর বইয়ের ছবির URL উল্লেখ করা হয়েছে।",
+      "notes_bn": "Britannica-তে জন্মদিন ২৬/২৭ জুন—দুইভাবেই দেওয়া, আর পশ্চিমবঙ্গ সরকারের পর্যটন বিভাগের পাতায় ২৭ জুন; তাই জীবনীতে কেবল জন্মসাল উল্লেখ করা হয়েছে। Commons ফাইল-বিবরণে প্রতিকৃতিটি বঙ্কিমচন্দ্রের বলে চিহ্নিত, ১৮৯৪-এর আগের তারিখ দেওয়া এবং Public domain হিসেবে চিহ্নিত; তবে শিল্পীর নাম অজ্ঞাত।",
+      "research_status": "biography_and_photo_sourced"
+    },
+    {
+      "name": "বন্দে আলী মিঞা",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "বিনয় মজুমদার",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "বিনায়ক বন্দ্যোপাধ্যায়",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "বিভাস রায় চৌধুরী",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "বিমল গুহ",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "বিষ্ণু দে",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "বিষ্ণু বিশ্বাস",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "বীথি চট্টোপাধ্যায়",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "বুদ্ধদেব বসু",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "ব্রত চক্রবর্তী",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "ভবানীপ্রসাদ মজুমদার",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "ভাস্কর চক্রবর্তী",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "মঞ্জুষ দাশগুপ্ত",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "মদনমোহন তর্কালঙ্কার",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "মলয় রায়চৌধুরী",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "মল্লিকা সেনগুপ্ত",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "মহাদেব সাহা",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "মাইকেল মধুসূদন দত্ত",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "মাকিদ হায়দার",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "মাহবুবুল আলম চৌধুরী",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "মুকুন্দরাম চক্রবর্তী",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "মুহম্মদ জাফর ইকবাল",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "মুহম্মদ নূরুল হুদা",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "মোহাম্মদ কামাল",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "মোহাম্মদ রফিক",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "মোহাম্মদ রফিকউজ্জামান",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "যতীন্দ্রমোহন বাগচী",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "যোগীন্দ্রনাথ সরকার",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "রজনীকান্ত সেন",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "রথো রাফি",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "রফিক আজাদ",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "রবীন্দ্রনাথ ঠাকুর",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "রাজিয়া খাতুন চৌধুরাণী",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "রামনিধি গুপ্ত",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "রুদ্র গোস্বামী",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "রুদ্র মুহম্মদ শহীদুল্লাহ",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "রেদোয়ান মাসুদ",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "রোকনুজ্জামান খান",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "লালন শাহ",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "শক্তি চট্টোপাধ্যায়",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "শঙ্খ ঘোষ",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "শতাব্দী রায়",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "শহীদ কাদরী",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "শামসুর রাহমান",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "শাহ মুহম্মদ সগীর",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "শিবরাম চক্রবর্তী",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "শুভ দাশগুপ্ত",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "শেখ ফজলুল করিম",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "শ্যামল চন্দ্র দাস",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "শ্রীজাত",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "সত্যেন্দ্রনাথ দত্ত",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "সলিল চৌধুরী",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "সিকান্দার আবু জাফর",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "সুকান্ত ভট্টাচার্য",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "সুকুমার বড়ুয়া",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "সুকুমার রায়",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "সুদীপ্ত বন্দ্যোপাধ্যায়",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "সুনির্মল বসু",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "সুনীল গঙ্গোপাধ্যায়",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "সুফিয়া কামাল",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "সুবোধ সরকার",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "সুব্রত পাল",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "সুব্রত পুরু",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "সুভাষ মুখোপাধ্যায়",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "সৃজন সেন",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "সৈয়দ শামসুল হক",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "স্মরণজিৎ চক্রবর্তী",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "হাসন রাজা",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "হুগো ফন হফমান্সথাল",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "হুমায়ুন আজাদ",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "হুমায়ুন কবির",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "হুমায়ূন আহমেদ",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "হেমচন্দ্র বন্দ্যোপাধ্যায়",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
+    },
+    {
+      "name": "হেলাল হাফিজ",
+      "biography_bn": null,
+      "bio_source_urls": [],
+      "photo_url": null,
+      "photo_source_url": null,
+      "photo_license": null,
+      "photo_attribution": null,
+      "notes_bn": "এই কবির জীবনী ও প্রতিকৃতির গবেষণা ক্রেডিট সীমায় অসম্পূর্ণ হয়েছে; পরে যাচাই করতে হবে।",
+      "research_status": "pending"
     }
   ]
 }
